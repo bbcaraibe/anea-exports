@@ -1,0 +1,1197 @@
+ANEA MINCEUR — HISTORIQUE COMPLET DES COMMITS
+Genere le : 2026-06-01 01:29
+Total : 1192 commits
+============================================================
+
+a6f7860 | 2026-05-31 20:07 | Published your App
+3c95114 | 2026-05-31 19:16 | Published your App
+a49d8fe | 2026-05-31 18:27 | Add screenshot showing how to find an API key
+5b11ca6 | 2026-05-31 18:08 | Create lighter PDF versions to improve download and opening experience
+ef0dc4c | 2026-05-31 18:05 | Add comprehensive exercise list and GIF sourcing details to documentation
+a4f9100 | 2026-05-31 17:57 | Add PDF download for code library exercises
+9876092 | 2026-05-31 17:52 | Add documentation and code for the exercise library feature
+ac85b07 | 2026-05-31 17:44 | Add legal and privacy policy documentation to the app
+fd63225 | 2026-05-31 17:21 | Update documentation for different device sleep data handling
+29b8b5a | 2026-05-31 17:04 | Update sleep tracking documentation to include new hardware and protocols
+a6df592 | 2026-05-31 17:02 | Clarify sleep scoring system branding in documentation
+90ebb99 | 2026-05-31 17:01 | Add documentation for sleep tracking and data processing
+115fb18 | 2026-05-31 16:59 | Add documentation explaining the food equivalence swap system
+f5d5e80 | 2026-05-31 16:50 | Add a readable document containing all sport-related code
+14be792 | 2026-05-31 16:02 | Add complete sport code archive with accompanying guide
+e3dfa7c | 2026-05-31 15:59 | Add complete bracelet codebase as a downloadable zip archive
+997f28e | 2026-05-31 15:53 | Provide complete application code as a downloadable zip archive
+62215c7 | 2026-05-31 15:50 | Add functionality for users to select alternative food items
+6dc4fda | 2026-05-31 15:46 | Add documentation for processing PDF meal plans with nutrition analysis
+2a8452b | 2026-05-31 15:26 | Published your App
+eeff8e1 | 2026-05-31 14:43 | Published your App
+9f1f9a1 | 2026-05-31 14:22 | Add comprehensive guide to the application's features and structure
+6729e1c | 2026-05-31 14:14 | Add branding components to the mockup generation tool
+2b9221d | 2026-05-31 13:28 | Add new branding identity component for mockups
+5357273 | 2026-05-31 12:50 | Add guide for pushing code to GitHub using an API
+bec5a68 | 2026-05-31 12:31 | Published your App
+a59119e | 2026-05-31 12:28 | Update component list to include branding module
+3a4b166 | 2026-05-31 12:22 | Add download links for historical project data
+e281e66 | 2026-05-31 11:52 | Add comprehensive attestation and history logs for project development
+bbc9d9a | 2026-05-31 11:36 | Update large asset files for application data
+2ff2a1c | 2026-05-31 10:43 | Create a downloadable archive of the application's source code
+60fb5fd | 2026-05-31 10:15 | Published your App
+d19e3d4 | 2026-05-30 21:40 | Published your App
+475bc68 | 2026-05-30 19:51 | Published your App
+ded0a60 | 2026-05-30 16:26 | Published your App
+1afb8cc | 2026-05-30 15:21 | Published your App
+c73bda4 | 2026-05-30 15:16 | Update component mapping for mockup previews
+829b2f1 | 2026-05-30 12:52 | Published your App
+1b907c2 | 2026-05-30 08:47 | Published your App
+24e92c1 | 2026-05-29 22:51 | Update mockups for screen and branding components
+8bc459c | 2026-05-29 21:33 | Published your App
+667ada1 | 2026-05-29 21:18 | Published your App
+6e219ec | 2026-05-29 21:07 | Published your App
+73f12b2 | 2026-05-29 19:55 | Published your App
+5ae5d95 | 2026-05-29 19:34 | Published your App
+2f860de | 2026-05-29 19:16 | Published your App
+df747a9 | 2026-05-29 18:51 | Published your App
+ebdb11d | 2026-05-29 18:46 | Add logs related to web deployment and module type warnings
+26d03f0 | 2026-05-29 18:37 | Published your App
+31dd84c | 2026-05-29 18:30 | Update session screen to show effort score with explanation
+588c218 | 2026-05-29 18:24 | Show live workout strain based on heart rate data
+fc06417 | 2026-05-29 18:17 | Improve clarity and interactivity of home screen cards
+f2825e4 | 2026-05-29 18:13 | Published your App
+feb4472 | 2026-05-29 18:00 | Published your App
+4125a87 | 2026-05-29 17:56 | Clarify purpose and interactivity of home screen cards
+3ebd659 | 2026-05-29 17:53 | Add clarity to health metric cards on the home screen
+43e890a | 2026-05-29 17:52 | Add body composition tracking to user progress overview
+7ff4aa6 | 2026-05-29 17:46 | Published your App
+c4df32c | 2026-05-29 17:36 | Update text styling to match Apple's system font
+7a49f16 | 2026-05-29 17:31 | Remove blog feature from the application interface
+00b965e | 2026-05-29 17:01 | Refine app typography and translate UI elements to sentence case
+134c2a0 | 2026-05-29 16:20 | Add effort level and heart rate data to workout sessions
+f4472e9 | 2026-05-29 16:12 | Remove client space and editorial coach sections from the homepage
+1c53b8e | 2026-05-29 16:09 | Update homepage to show sleep hours and remove client space
+a482417 | 2026-05-29 15:47 | Display previous night's sleep hours on the home screen
+f662f24 | 2026-05-29 15:45 | Add body temperature display to the home and bracelet screens
+5d878ae | 2026-05-29 15:37 | Add real-time body temperature and heart rate variability measurements
+658c9f6 | 2026-05-29 15:28 | Update screenshot displaying app interface and functionality
+1db7667 | 2026-05-29 15:27 | Add support for V5 band features and improve data handling
+b4eb97e | 2026-05-29 15:11 | Published your App
+c3843f5 | 2026-05-29 15:10 | Add blood pressure monitoring for V5 bracelets
+b030ccf | 2026-05-29 15:04 | Published your App
+a2c30ca | 2026-05-29 14:25 | Update bracelet connection to handle new device type
+3422c87 | 2026-05-29 14:09 | Add unknown sleep phase to prevent data fabrication
+51efa25 | 2026-05-29 13:50 | Show the start time and all past workout sessions
+14dc128 | 2026-05-29 13:43 | Add preventive keep-alive to improve V5 bracelet connection stability
+a89d5e8 | 2026-05-29 13:28 | Add detailed heart rate variability screen and improve data handling
+a4fee5d | 2026-05-29 13:12 | Add heart rate variability tracking and display for user recovery
+0f014a8 | 2026-05-29 12:57 | Clarify step fusion logic and V5 integration
+97c5bd2 | 2026-05-29 12:52 | Add daily step tracking for V5 devices using local date
+455f73e | 2026-05-29 12:47 | Adjust wheelchair mode to display actual steps instead of estimated pushes
+dcc1c65 | 2026-05-29 12:41 | Add sleep tracking by logging raw data and fixing date range
+5306e5a | 2026-05-29 12:18 | Add support for the JCVital V5 bracelet and fix heart rate data delivery
+337a8de | 2026-05-29 11:50 | Add support for new bracelet models to the app
+006f8c0 | 2026-05-27 16:40 | Add a screenshot of the application's home screen
+aa68db6 | 2026-05-27 14:23 | Add exercise demonstration animations for improved user understanding
+44b3092 | 2026-05-25 17:38 | Enable automatic onboarding and simulated data for web previews
+02ef2c8 | 2026-05-20 20:06 | Enable simulated mode for bracelet data to allow testing without hardware
+b947aeb | 2026-05-20 17:31 | Implement core health and fitness algorithms in TypeScript
+a836f92 | 2026-05-20 16:56 | Update exercise and sleep tracking with improved scientific accuracy
+5fe63e3 | 2026-05-20 16:10 | Update health algorithms with new metrics and calculations
+13f0b35 | 2026-05-20 16:09 | Update health algorithms and supporting documentation for Anëa Minceur
+f39ffa4 | 2026-05-20 13:13 | Add new bracelet model documentation for future integration
+d7d3ca8 | 2026-05-20 09:30 | Update SDK to support sleep and SpO2 data retrieval
+a899935 | 2026-05-19 15:20 | Prevent bracelet disconnections by adjusting communication protocols
+7ab6807 | 2026-05-19 11:30 | Published your App
+a846a94 | 2026-05-19 11:17 | Improve SpO2 measurement reliability and sleep data retrieval
+de9e6a3 | 2026-05-19 10:59 | Add a log file containing the latest device communication data
+b52b555 | 2026-05-19 10:25 | Published your App
+047ca0a | 2026-05-19 09:56 | Published your App
+b4c20fe | 2026-05-19 09:47 | Improve background heart rate updates and live badge behavior
+b71f773 | 2026-05-19 09:33 | Adjust blood oxygen monitoring interval and data parsing logic
+5f85a50 | 2026-05-19 09:21 | Add new screens for bracelet and nutrition features
+f0972a4 | 2026-05-19 09:17 | Update sleep tracking to parse detailed sleep phases from device
+49e9f36 | 2026-05-19 09:11 | Introduce a new protocol for retrieving sleep data from newer devices
+51519a8 | 2026-05-19 09:01 | Prevent sending outdated sleep data requests to newer devices
+421398c | 2026-05-19 00:37 | Display only live heart rate measurements on the home screen
+f3024b5 | 2026-05-19 00:37 | Replace fabricated heart rate score with actual measurements
+49bba4c | 2026-05-19 00:30 | Update draft message to manufacturer regarding device integration issues
+3123653 | 2026-05-19 00:28 | Reduce redundant logging for unsupported heart rate service
+8d548ef | 2026-05-19 00:16 | Update mockup component imports for a cleaner build
+b0a74ea | 2026-05-19 00:11 | Update component registration and log file
+7aa9502 | 2026-05-18 23:55 | Published your App
+fe57970 | 2026-05-18 23:50 | Prevent fabricated sleep data and add manual reset functionality
+af01336 | 2026-05-18 23:44 | Add a button to reset sleep data and prevent incorrect sleep recording
+20ce413 | 2026-05-18 23:38 | Add option to reset sleep data when device is not recording
+2ee19c5 | 2026-05-18 23:36 | Add fallback for sleep data retrieval on the device
+31ed5d5 | 2026-05-18 23:31 | Add bracelet and nutrition screen mockups to the preview
+2f8a0d6 | 2026-05-18 23:13 | Published your App
+543c571 | 2026-05-18 23:08 | Update sleep data retrieval and SpO2 parsing logic
+4783a40 | 2026-05-18 23:02 | Update device communication protocols and command definitions
+b39c735 | 2026-05-18 22:41 | Published your App
+f120a90 | 2026-05-18 22:38 | Fix automatic sleep mode activation by tracking real time
+0bfbc2e | 2026-05-18 22:32 | Published your App
+f5dcba4 | 2026-05-18 22:31 | Add background location tracking and improve run tracking accuracy
+44b1d01 | 2026-05-18 22:26 | Enable background location tracking and improve GPS accuracy and efficiency
+73be257 | 2026-05-18 22:23 | Add keep-alive mechanism to prevent silent bracelet disconnections
+c41e8cd | 2026-05-18 22:21 | Add connection keep-alive to prevent silent disconnects
+acdd809 | 2026-05-18 22:15 | Fix errors in SpO2 and sleep data readings from the device
+bd866ff | 2026-05-18 21:50 | Published your App
+85f9635 | 2026-05-18 21:44 | Add a delay between heart rate and SpO2 measurements and fix sleep data packet format
+2324d78 | 2026-05-18 21:42 | Add detailed health tracking and personalized insights
+f9b7ca6 | 2026-05-18 21:31 | Add source code archive for the application
+fd01985 | 2026-05-18 21:29 | Improve heart rate accuracy during high-vibration activities by filtering readings
+b54711d | 2026-05-18 21:22 | Display Apple Watch heart rate alongside bracelet data for comparison
+30a9865 | 2026-05-18 21:15 | Prioritize Apple Watch heart rate data during workouts
+b5128bb | 2026-05-18 21:12 | Cap heart rate calorie estimates during workouts to prevent overestimation
+71cb77e | 2026-05-18 21:12 | Update calorie display to accurately reflect session totals
+7bb549e | 2026-05-18 20:04 | Improve manual heart rate and SpO2 measurement accuracy for devices
+21c0043 | 2026-05-18 19:55 | Add a PDF version of the bracelet report for easier sharing
+dddbd5c | 2026-05-18 19:51 | Add report detailing bracelet and app relationship issues
+7b2985e | 2026-05-18 19:48 | Improve blood oxygen measurement by sending multiple start commands
+0c2a336 | 2026-05-18 19:44 | Improve sleep data retrieval by testing multiple protocol variants
+a8d09c7 | 2026-05-18 19:40 | Add new screen components for bracelet and nutrition features
+730af3f | 2026-05-18 19:19 | Published your App
+2c4b3b4 | 2026-05-18 18:55 | Published your App
+0ebdb5c | 2026-05-18 18:27 | Allow bracelet to reconnect automatically in the background on iOS
+59a2c1b | 2026-05-18 17:24 | Published your App
+e9ed203 | 2026-05-18 16:24 | Improve blood oxygen measurement accuracy and data parsing
+c878c25 | 2026-05-18 16:13 | Improve blood oxygen monitoring and sleep tracking accuracy
+465af7c | 2026-05-18 15:49 | Published your App
+0f1d9ea | 2026-05-18 15:36 | Improve sleep data retrieval by updating to a new protocol and handling pagination
+f3d314f | 2026-05-18 15:21 | Add a fallback sleep detection using live heart rate data
+ce2171a | 2026-05-18 15:17 | Ensure blood oxygen measurements can complete by pausing heart rate monitoring
+1b8a67e | 2026-05-18 15:08 | Allow blood oxygen measurements by pausing heart rate monitoring
+7736d5c | 2026-05-18 15:04 | Remove the firmware update card from the bracelet screen
+88ce92f | 2026-05-18 14:57 | Add instructions for updating the bracelet firmware via a separate app
+fbfe83a | 2026-05-18 14:52 | Remove HealthKit fallback for sleep and SpO2 metrics
+1ed4741 | 2026-05-18 14:50 | Add fallback data for sleep and oxygen saturation when device readings fail
+f94630f | 2026-05-18 14:40 | Calculate personalized energy expenditure for workouts based on user biometrics
+e110942 | 2026-05-18 14:31 | Add a hands bike exercise to the wheelchair workout category
+ff43a96 | 2026-05-18 14:26 | Add a screenshot image for reference
+e6e08f9 | 2026-05-18 14:25 | Add screenshots of exercise equipment to the project assets
+b1aa9c6 | 2026-05-18 14:18 | Add image of upper body ergometer exercise equipment
+40bf632 | 2026-05-18 13:48 | Ensure wheelchair users can track their activity steps
+f47df54 | 2026-05-18 13:28 | Update activity tracking to accurately reflect user data
+e0b5dd9 | 2026-05-18 13:26 | Add brand identity component for ATY branding
+5e96f46 | 2026-05-18 13:21 | Ensure bracelet activity tile accurately reflects daily steps
+06911b2 | 2026-05-18 13:20 | Update bracelet activity tile to show consistent push counts
+4b388c8 | 2026-05-18 12:41 | Published your App
+fcd1882 | 2026-05-18 12:31 | Create intelligent push calculation combining bracelet and phone data
+537e514 | 2026-05-18 12:30 | Prioritize bracelet step data for wheelchair push calculations
+1d2c907 | 2026-05-18 12:28 | Convert steps to wheelchair pushes and show zero when no data
+e5fb3f7 | 2026-05-18 12:25 | Update home screen to display live heart rate data
+241fa79 | 2026-05-18 12:24 | Display raw heart rate readings without any filtering
+ff2ad4c | 2026-05-18 12:18 | Improve heart rate sensor recovery after periods of high activity
+47f2fa1 | 2026-05-18 12:14 | Improve heart rate tracking accuracy during walking and intense activities
+2bd36e4 | 2026-05-18 12:11 | Improve heart rate accuracy by automatically detecting user activity
+64f82db | 2026-05-18 12:06 | Add brand identity component for consistent application styling
+fec7cb6 | 2026-05-18 11:29 | Published your App
+fd0d042 | 2026-05-18 11:23 | Improve GPS accuracy and add pedometer fallback for distance tracking
+2d3451e | 2026-05-18 11:20 | Make heart rate display more responsive throughout the day
+644bba7 | 2026-05-18 11:18 | Remove median filter for faster heart rate updates during workouts
+266ae9c | 2026-05-18 11:12 | Update screenshots to reflect accurate heart rate data
+73155a7 | 2026-05-18 11:09 | Update device communication to improve data synchronization accuracy
+79383e6 | 2026-05-18 11:03 | Update device communication to correctly retrieve sleep data
+5d6ce1c | 2026-05-18 10:29 | Published your App
+42024c7 | 2026-05-18 10:24 | Fix infinite loops when fetching stress and HRV data
+5af64c0 | 2026-05-18 10:17 | Improve diagnostic log readability and buffer capacity
+866c852 | 2026-05-18 10:15 | Add diagnostic log with no sleep data captured
+2ae55f3 | 2026-05-18 09:55 | Published your App
+ca47a48 | 2026-05-18 09:30 | Add diagnostic buttons to sleep and SpO2 screens
+1d0e42c | 2026-05-18 09:28 | Add a diagnostic log viewer for debugging device communication
+c46bcf2 | 2026-05-18 00:23 | Add ability to share technical details for sleep data issues
+82c80c0 | 2026-05-17 23:48 | Published your App
+9e1f8ec | 2026-05-17 23:43 | Add missing translations for bracelet feature and adjust hero layout
+96ae5c9 | 2026-05-17 23:39 | Improve heart rate and sleep data parsing for greater accuracy
+e443e19 | 2026-05-17 23:25 | Add technical detail for bracelet data sync and improve heart rate parsing
+d9720fd | 2026-05-17 23:19 | Add ability to re-enable continuous monitoring for the bracelet
+2abbc97 | 2026-05-17 22:46 | Published your App
+94b3ef0 | 2026-05-17 22:04 | Improve sleep tracking accuracy and provide diagnostic feedback
+65cefa3 | 2026-05-17 21:49 | Improve sleep tracking by retrying sync after a forced reconnect
+8c94d5d | 2026-05-17 21:29 | Add sand background to welcome page and enlarge logo across all pages
+f788ab0 | 2026-05-17 21:12 | Published your App
+9838e0c | 2026-05-17 20:58 | Remove simulated data mode and related features from the app
+ed86f43 | 2026-05-17 20:49 | Published your App
+8132202 | 2026-05-17 20:18 | Add sleep tracking data to the user's health profile
+7d1ec3d | 2026-05-17 20:09 | Published your App
+4bb317e | 2026-05-17 20:02 | Update hero images to consistently display mountain backgrounds
+c413ff2 | 2026-05-17 20:01 | Update bracelet screen background to display mountain image
+168d647 | 2026-05-17 19:43 | Published your App
+2107f3a | 2026-05-17 19:39 | Improve app navigation after user account activation and login
+ce1249a | 2026-05-17 19:09 | Published your App
+fabff07 | 2026-05-17 19:03 | Improve error handling in authentication endpoints
+3f1c215 | 2026-05-17 18:31 | Update application text to refer to advisors instead of nutritionists
+e3b6d0a | 2026-05-17 18:27 | Improve client data synchronization by handling inconsistent number formats
+2858ddc | 2026-05-17 17:49 | Add admin API endpoints and testing instructions
+c55a6d5 | 2026-05-17 17:47 | Add consent checkboxes for terms and privacy policy during account activation
+7949632 | 2026-05-17 17:39 | Add a way for the admin to push client data directly to the mobile app
+5a8a487 | 2026-05-17 17:36 | Add images to document workflow and user interactions
+e382d43 | 2026-05-17 17:34 | Improve password and login input behavior for better user experience
+145b5a2 | 2026-05-17 17:32 | Improve activation code entry and validation for user accounts
+73506b8 | 2026-05-17 17:29 | Improve login logic to prioritize activated accounts
+d637940 | 2026-05-17 17:08 | Published your App
+9485f62 | 2026-05-17 17:01 | Published your App
+c76cd4e | 2026-05-17 16:47 | Improve login and account activation flows for better user experience
+f13957f | 2026-05-17 16:42 | Update account activation to accommodate longer access codes
+ec13629 | 2026-05-17 16:33 | Fix account activation and update professional titles to nutritionist
+3348e3c | 2026-05-17 16:30 | Improve sleep data synchronization reliability by extending time limits
+99594e0 | 2026-05-17 16:25 | Improve meal plan upload reliability and add timeouts
+9780a4f | 2026-05-17 16:19 | Improve app stability and fix broken navigation links
+4772cd2 | 2026-05-17 15:59 | Add timeouts to prevent sleep synchronization from freezing
+aacca86 | 2026-05-17 15:12 | Published your App
+ed8da57 | 2026-05-17 15:02 | Fix crashes when sleep or blood pressure history is empty
+1f3a50e | 2026-05-17 15:00 | Serve the Expo app on the root path and create a dedicated landing page route
+5e430fe | 2026-05-17 14:43 | Published your App
+2dbf039 | 2026-05-17 14:39 | Remove simulated data from bracelet and activity tracking
+778acc1 | 2026-05-17 14:32 | Enable preview for app routes by proxying requests to Expo
+91684a1 | 2026-05-17 14:25 | Reduce logo size and adjust spacing to prevent content overlap
+bbfbbe2 | 2026-05-17 14:23 | Hide the main score when individual scores are displayed
+51918c6 | 2026-05-17 14:22 | Update nutrition screen greeting to be time-based and localized
+e183f66 | 2026-05-17 14:21 | Improve nutrition screen layout and content display
+07c4648 | 2026-05-17 14:19 | Remove inactivity alert and large recovery percentage display
+1784ebc | 2026-05-17 14:17 | Remove the large recovery score circle from the bracelet screen
+ced2301 | 2026-05-17 14:15 | Organize nutrition metrics into a compact grid for better space efficiency
+4060ff7 | 2026-05-17 14:14 | Make nutrition tracking more compact and add carb tracking
+889505d | 2026-05-17 14:11 | Set Monday as the default starting day for generated programs
+2631417 | 2026-05-17 14:09 | Shrink slider elements to make them more compact
+11eef74 | 2026-05-17 14:09 | Apply Anea theme to profile screen with updated card styling
+fb802e1 | 2026-05-17 13:57 | Update app screens with a new dark aesthetic and consistent design elements
+5fbb33a | 2026-05-17 13:40 | Hide low score status indicators on sliders and update theme translations
+befc5ee | 2026-05-17 13:36 | Update status labels from "À SOIGNER" to "À AMÉLIORER"
+ea27703 | 2026-05-17 13:29 | Improve the presentation of tracking and blog cards on the home screen
+ef61adc | 2026-05-17 13:27 | Improve layout and spacing of hero section elements
+d9c4461 | 2026-05-17 13:26 | Adjust header layout to reduce text size and increase logo prominence
+e308eb9 | 2026-05-17 13:23 | Adjust logo and layout for better visual hierarchy on the page
+17a9dd0 | 2026-05-17 13:21 | Enlarge the main logo and adjust surrounding elements
+798d4d5 | 2026-05-17 13:21 | Make the logo bigger and reduce text sizes on the main screen
+a4a4f26 | 2026-05-17 13:19 | Enlarge the logo and reduce the size of the greeting and date
+09a58b5 | 2026-05-17 13:16 | Improve the visual presentation of the app's header and logo
+22caf50 | 2026-05-17 13:12 | Update logo display and styling for a refined look
+18b1976 | 2026-05-17 13:09 | Increase the size of the main logo displayed on the home screen
+d85a5c9 | 2026-05-17 13:08 | Refine app's visual design with a cleaner logo and updated typography
+7783f55 | 2026-05-17 13:07 | Improve app's appearance with updated logo and refined typography
+956e6ca | 2026-05-17 13:04 | Improve readability of score display with better contrast and spacing
+4fa7efc | 2026-05-17 13:03 | Update nutrition tracking and remove discipline score from dashboard
+2432353 | 2026-05-17 13:01 | Improve visual design for sleep and activity tracking screens
+c88c216 | 2026-05-17 12:54 | Update the app's home screen with a new design system
+9818106 | 2026-05-17 12:39 | Update the dark design theme with new background images and styling
+1e4039c | 2026-05-17 12:35 | Add three distinct home screen redesign mockups for user selection
+f3883a6 | 2026-05-17 12:24 | Update sleep data to show the most recent night's sleep
+8892442 | 2026-05-17 12:22 | Published your App
+7229b29 | 2026-05-17 12:18 | Fix instant failure when measuring blood oxygen levels
+0885a15 | 2026-05-17 11:54 | Update onboarding flow and integrate with admin data source
+ccb0491 | 2026-05-17 11:48 | Add ability for mobile app to verify client codes via admin server
+27f6688 | 2026-05-17 11:46 | Saved progress at the end of the loop
+2d457bb | 2026-05-17 11:40 | Published your App
+4d058c5 | 2026-05-17 11:00 | Adjust step counting for wheelchair users and prioritize HealthKit data
+5c51594 | 2026-05-17 10:52 | Improve step counting accuracy and data synchronization
+008e198 | 2026-05-17 10:50 | Prioritize wristband step data and clear phantom steps
+50ebc77 | 2026-05-17 10:44 | Make the full exercise library the default view
+173655e | 2026-05-17 10:44 | Make the full exercise library the default view
+ed67155 | 2026-05-17 10:42 | Improve synchronization speed and reliability for device data
+6f741bd | 2026-05-17 10:36 | Improve bracelet data synchronization reliability by isolating read operations
+2073846 | 2026-05-17 10:33 | Add a new image file to the attached assets
+f5f226e | 2026-05-17 10:06 | Published your App
+7b5dba0 | 2026-05-17 09:56 | Prevent simulator from generating fake activity data
+217e949 | 2026-05-17 09:55 | Make activity simulator honest about user's actual activity level
+f81df50 | 2026-05-17 09:53 | Add a dedicated page to view detailed daily activity statistics
+48146c8 | 2026-05-17 09:43 | Improve exercise library display and filtering accuracy
+2a6a8c0 | 2026-05-17 09:36 | Add script to download all high-resolution exercise images
+473873f | 2026-05-17 09:32 | Update exercise image to higher quality for better display
+b8c1467 | 2026-05-17 09:29 | Improve heart rate sampling by only updating when the interval actually changes
+87cdca5 | 2026-05-17 09:26 | Stop vibrating the bracelet when entering sleep or shower mode
+6c03593 | 2026-05-17 09:24 | Reduce bracelet vibrations when entering sleep mode
+ca81b07 | 2026-05-17 09:22 | Prevent sleep mode from turning off automatically during the night
+ffd16e4 | 2026-05-17 09:20 | Enable blood oxygen monitoring when vibrations are disabled
+aa26a55 | 2026-05-17 09:15 | Update SpO2 measurement failure alert message
+a69ac56 | 2026-05-17 09:14 | Add error message when SpO2 measurement fails
+10176db | 2026-05-17 09:12 | Make collecting sleep data easier for users
+c3a1000 | 2026-05-17 09:10 | Improve sleep data collection and display on the bracelet
+c8e81b4 | 2026-05-17 09:02 | Add active sleep data polling to improve overnight tracking
+2671807 | 2026-05-17 08:59 | Estimate sleep based on heart rate when device data is missing
+1393a38 | 2026-05-17 01:13 | Improve blood oxygen measurement reliability and user feedback
+2d65ac3 | 2026-05-17 01:10 | Ensure daily activity counts reset correctly at midnight
+2183b80 | 2026-05-17 01:04 | Update wheelchair push and distance calculations for accuracy
+348944e | 2026-05-17 00:37 | Improve notification handling by consolidating silent mode commands
+f67a063 | 2026-05-17 00:23 | Published your App
+e9ee60c | 2026-05-17 00:19 | Remove vibration confirmation when activating silent modes
+1725f71 | 2026-05-17 00:18 | Improve vibration control by delaying stop commands
+a749389 | 2026-05-16 23:55 | Published your App
+86fc5c5 | 2026-05-16 23:45 | Prevent unwanted vibrations and improve oxygen measurements
+9b8cdbf | 2026-05-16 23:35 | Remove exercises lacking proper 1080p animations from the library
+a1eef23 | 2026-05-16 23:31 | Replace placeholder images with exercise animations
+0040a73 | 2026-05-16 23:24 | Add functionality to delete user accounts and update legal terms
+1e1bef3 | 2026-05-16 23:13 | Published your App
+d404f01 | 2026-05-16 22:58 | Improve exercise card display and text handling for better readability
+b8094af | 2026-05-16 22:57 | Update exercise demonstration images for better clarity
+dca6ea7 | 2026-05-16 22:54 | Serve exercise GIFs in higher resolution
+118a2de | 2026-05-16 22:53 | Improve exercise image quality and add fallback caching
+2fc5d61 | 2026-05-16 22:52 | Published your App
+0e4454f | 2026-05-16 22:47 | Fix exercise card display and disable bracelet vibrations by default
+f704c5e | 2026-05-16 22:42 | Add high-quality GIF visuals for more exercises in the library
+fbf27b5 | 2026-05-16 22:37 | Add ability to measure blood oxygen and improve exercise library visuals
+c99afd6 | 2026-05-16 22:13 | Published your App
+0edc614 | 2026-05-16 22:08 | Improve workout plan generation by optimizing cardio and redesigning the UI
+54b6e14 | 2026-05-16 22:01 | Improve exercise animation matching and add missing exercise GIFs
+47952d1 | 2026-05-16 21:51 | Published your App
+3b51227 | 2026-05-16 21:18 | Improve step counting accuracy and fix notification setting issues
+e338511 | 2026-05-16 20:37 | Increase delay between requests to avoid hitting API rate limits
+e93df5a | 2026-05-16 20:30 | Published your App
+70e3e1f | 2026-05-16 20:30 | Improve sleep mode and notification reliability for bracelet
+d50905f | 2026-05-16 20:29 | Improve bracelet notification reliability and sleep mode silence
+50d27f6 | 2026-05-16 20:26 | Align step counts between Home and Bracelet tabs
+4e77604 | 2026-05-16 20:22 | Update step tracking to prioritize phone data when available
+66a9396 | 2026-05-16 20:20 | Prioritize phone step data over wristband when available
+cfa7c27 | 2026-05-16 20:17 | Add script to cache all exercise GIFs locally for offline access
+a17fa60 | 2026-05-16 20:16 | Update production domain for app deployments
+36f9893 | 2026-05-16 20:13 | Add fallback images for exercise demonstrations when animations fail
+6b00b45 | 2026-05-16 19:46 | Published your App
+f9a8be8 | 2026-05-16 18:47 | Add a French translation toggle and comprehensive exercise database view
+f167ea6 | 2026-05-16 18:34 | Add muscle group and equipment filters to exercise library
+2fa9ccb | 2026-05-16 18:27 | Prevent inaccurate heart rate readings from affecting resting state
+c69f2f6 | 2026-05-16 18:16 | Add a document for App Store submission with all required information
+59351d8 | 2026-05-16 18:16 | Published your App
+d7009fd | 2026-05-16 18:11 | Add a safety feature to prevent displaying incorrect resting heart rate readings
+fa95717 | 2026-05-16 18:05 | Add grace period to prevent false "not worn" alerts on reconnect
+6cc3baf | 2026-05-16 17:54 | Improve oxygen saturation tracking for more accurate and responsive readings
+fcc3c1e | 2026-05-16 17:51 | Improve heart rate monitoring to provide more frequent and reliable data
+04e5f77 | 2026-05-16 17:43 | Make meal selection easier with visible colored navigation chips
+241d7a1 | 2026-05-16 17:33 | Improve resting heart rate accuracy by using a 14-day baseline
+3a023ae | 2026-05-16 17:21 | Improve home screen coach advice and remove AI guidance from bracelet
+d95cf58 | 2026-05-16 17:07 | Add ability to automatically sync battery data when opening the tab
+24bc640 | 2026-05-16 17:03 | Improve back button functionality across detail pages
+6d34bfb | 2026-05-16 16:46 | Add company logo to sleep detail screen for branding
+2a3e4af | 2026-05-16 16:42 | Add detail screen for viewing recorded workout sessions
+a29f528 | 2026-05-16 16:39 | Remove fiber tips button and fix meal plan adaptation
+020faf5 | 2026-05-16 16:36 | Enhance app to keep bracelet connected and track workout heart rate
+361fb02 | 2026-05-16 16:32 | Enhance sport tracking with session data recovery and calibration
+8e51c3e | 2026-05-16 16:29 | sport: robust tracking — richer schema, draft recovery, SCI calibration
+7d55e00 | 2026-05-16 16:16 | Strengthen heart rate jump detection for resting periods
+649c7dd | 2026-05-16 16:12 | Update exercise images to display thumbnails reliably
+2f2b95e | 2026-05-16 15:55 | Update exercise library to use static images for thumbnails
+1f6c71b | 2026-05-16 15:49 | Prevent step count from decreasing after restarting the application
+8cc9107 | 2026-05-16 15:03 | Published your App
+2b8492e | 2026-05-16 13:03 | Add confirmation before exiting an active exercise session
+8559a92 | 2026-05-16 11:33 | Published your App
+fe91117 | 2026-05-16 11:29 | Update app configuration with new build and version numbers
+c8adb25 | 2026-05-16 10:32 | Published your App
+ef6091a | 2026-05-16 10:17 | Improve workout calorie and heart rate tracking accuracy
+c6daa9d | 2026-05-16 10:13 | Improve bracelet reconnection reliability and user experience
+3400eac | 2026-05-16 10:02 | Improve step tracking accuracy and reliability for all users
+b09a8f2 | 2026-05-16 09:50 | feat(hr): heart-rate detail screen + battery stale auto-reconnect
+3430f4b | 2026-05-16 09:45 | Improve sleep data synchronization and error handling
+fbf60d6 | 2026-05-16 09:30 | Fix heart rate calculation and device connection issues
+e0b3e7b | 2026-05-16 02:09 | Published your App
+d982f6e | 2026-05-16 01:58 | Improve heart rate stability at rest by introducing a rest lock mechanism
+95b54d4 | 2026-05-16 01:54 | Improve heart rate sensor accuracy by detecting and correcting drift
+06863a8 | 2026-05-16 01:48 | Make heart rate readings more stable when resting
+fe29f55 | 2026-05-16 01:44 | Add a shower mode to pause tracking and silence the bracelet
+a4a59a8 | 2026-05-16 01:33 | Update component import for brand identity
+0a2573a | 2026-05-16 00:43 | Published your App
+f8c82dc | 2026-05-15 23:34 | Published your App
+c26f85b | 2026-05-15 23:31 | Detect band's "no-data-now" signal to prevent false "non porté" status
+fe45a2c | 2026-05-15 23:24 | Published your App
+f8acf7c | 2026-05-15 23:21 | Improve SpO2 measurement timing and real-time step tracking
+e616f3a | 2026-05-15 23:17 | Improve display of oxygen and recovery metrics on the bracelet screen
+9ad28b8 | 2026-05-15 23:14 | Ensure sleep mode silences all vibrations and notifications
+9fa0bbf | 2026-05-15 23:04 | Add automatic blood oxygen measurement and update live data handling
+6e084c8 | 2026-05-15 22:44 | Personalize heart rate zones and display historical data
+f3bbedb | 2026-05-15 22:31 | tension: retire la calibration et adoucit le disclaimer (Task #8)
+6eda572 | 2026-05-15 22:28 | feat(bracelet): aggressive battery sync + visible age on UI
+02a9896 | 2026-05-15 22:27 | nutrition: remplace l'adaptation IA des recettes par un scaling local
+68d7695 | 2026-05-15 21:32 | Published your App
+8775710 | 2026-05-15 21:25 | Published your App
+c346ec8 | 2026-05-15 21:19 | Add Whoop-style sleep detail screen
+b9fbc04 | 2026-05-15 21:00 | Make blood pressure data visible on the bracelet screen
+c0a83cb | 2026-05-15 20:56 | Update device connection status text and improve number display
+2cc7d94 | 2026-05-15 20:52 | Improve display of health metrics and device status
+d11fc71 | 2026-05-15 20:49 | Improve blood pressure reading display and disclaimers for users
+a2cb6b2 | 2026-05-15 20:40 | feat(bracelet): tension artérielle continue avec calibration brassard
+0901554 | 2026-05-15 20:27 | Fix snack combinations display + add AI illustration
+84efd25 | 2026-05-15 20:15 | Improve snack combination display and add items to journal
+c367455 | 2026-05-15 20:12 | Improve data synchronization and update stale thresholds
+8babe2a | 2026-05-15 20:11 | Improve score calculation based on wearable device usage
+06c9257 | 2026-05-15 19:30 | Add tracking for daily bracelet wear time to improve scoring
+6379244 | 2026-05-15 19:27 | Add foreground stale-data drain for bracelet sync
+1fa4365 | 2026-05-15 19:17 | Update image to reflect recent branding and animation changes
+203c064 | 2026-05-15 17:46 | Published your App
+29f5519 | 2026-05-15 17:38 | Temporarily disable widget to allow app publication
+b629d30 | 2026-05-15 17:32 | Temporarily disable widget functionality to allow app publication
+2bab180 | 2026-05-15 17:24 | Published your App
+0b57662 | 2026-05-15 17:17 | Register new app identifier and configure shared data access for widget
+b4e2f8a | 2026-05-15 17:15 | Update app configuration to correctly identify the application
+ece99dc | 2026-05-15 17:14 | Update asset with latest screenshot for guidance
+4f7e66c | 2026-05-15 17:03 | Update application screenshots with new widget naming
+a928f8d | 2026-05-15 17:01 | Update widget configuration to enable new app identifier
+972e479 | 2026-05-15 16:58 | Published your App
+d93c48b | 2026-05-15 16:57 | Update widget name and file references to aneawidget
+26d0c40 | 2026-05-15 16:46 | Add animations to app score and stats displays
+7ed9bfc | 2026-05-15 16:24 | Published your App
+9c9c246 | 2026-05-15 15:48 | Whoop-style animations on home + bracelet screens
+33b4a0c | 2026-05-15 15:41 | Activate Anëa iOS widget mirroring the home screen
+b6fd5c0 | 2026-05-15 15:25 | Add sleep debt tracking and remove admin features
+45e2a65 | 2026-05-15 15:15 | Restrict food journal to meal plan recipes and add multilingual daily notifications
+84265a4 | 2026-05-15 15:04 | Bracelet: fusion intelligente des pas + carte batterie dédiée
+1050a00 | 2026-05-15 14:53 | recipes: empty static library, admin-only catalog with unread badge
+feee999 | 2026-05-15 14:31 | Add animated GIFs to exercise library and detail screens
+33ad2a0 | 2026-05-15 14:14 | Address incorrect time remaining display for body composition analysis
+ce672b8 | 2026-05-15 13:39 | Improve step tracking reliability when device is disconnected
+76ae1a4 | 2026-05-15 13:32 | Published your App
+1e42440 | 2026-05-15 13:26 | Improve step tracking reliability across all scenarios
+5d68ebb | 2026-05-14 23:41 | Improve step counting accuracy when phone is not present
+d6cd9e0 | 2026-05-14 23:39 | Add heart rate tracking and display during outdoor runs
+f64c465 | 2026-05-14 23:31 | Hide "Recherche du signal" + RELANCER while BLE is connected
+be3cfc9 | 2026-05-14 23:28 | Rebalance activity levels + skip client welcome screen
+bb056a3 | 2026-05-14 23:27 | Rebalance activity levels + skip client welcome screen
+5099fbd | 2026-05-14 23:26 | Rebalance activity levels + skip client welcome screen
+2cddd70 | 2026-05-14 23:25 | Add continuous heart rate logging to background
+4ae0f72 | 2026-05-14 23:02 | Add heart rate display to the home screen indicators
+0f4b3e3 | 2026-05-14 23:00 | Add an activity score to display when sleep tracking is disabled
+9d4e543 | 2026-05-14 22:23 | Update widget preview title to reflect iPhone lock screen context
+41cc80b | 2026-05-14 22:21 | Update widget preview to include the actual logo
+546b611 | 2026-05-14 22:21 | Published your App
+51ccee7 | 2026-05-14 22:20 | Add visual mockups for lock screen widgets
+c276793 | 2026-05-14 22:18 | Update lock screen widgets to display Anëa branding
+a5f6278 | 2026-05-14 22:15 | Published your App
+b34fd20 | 2026-05-14 22:11 | Adjust heart rate display thresholds for better user experience
+94ab897 | 2026-05-14 22:08 | Improve heart rate display to never show time elapsed
+53ec729 | 2026-05-14 22:06 | Disable heart rate vibration alerts and improve sport mode accuracy
+07c9ebb | 2026-05-14 22:02 | Improve heart rate accuracy during workouts by prioritizing external data
+3230767 | 2026-05-14 21:58 | Improve heart rate accuracy by quickly adjusting to real-time changes
+8195788 | 2026-05-14 21:56 | Improve vibration and step counting accuracy on the device
+cc2b201 | 2026-05-14 21:52 | Improve heart rate display to show live status continuously
+9776df5 | 2026-05-14 21:39 | Add screenshots of the H59 Pro specification details
+560f531 | 2026-05-14 21:36 | Add official specification sheet for H59 Pro device
+ec84942 | 2026-05-14 21:29 | Add screenshots of device specifications and app interface
+19d10cd | 2026-05-14 21:23 | Add screenless device hardware specifications to project
+970ed19 | 2026-05-14 21:11 | Add ability to connect and manage data sources for heart rate and activity
+1e3ce26 | 2026-05-14 20:56 | Update Polar Loop SDK documentation to reflect new capabilities and constraints
+bbaf279 | 2026-05-14 19:44 | Update documentation to clarify heart rate monitoring capabilities
+1c5f649 | 2026-05-14 19:42 | Add screenshots of UI elements and system information
+38f32b8 | 2026-05-14 19:24 | Add screenshot for heart rate monitoring
+0bb63c1 | 2026-05-14 19:13 | Improve heart rate alert system by adding automatic threshold calculation
+3e0e692 | 2026-05-14 19:12 | Add screenshots showing heart rate changes
+a8c7de4 | 2026-05-14 18:42 | Published your App
+bf056b3 | 2026-05-14 18:28 | feat(bracelet): enable Saiwei P08 abnormal-HR alerts on H59 Pro
+24ec60d | 2026-05-14 18:13 | Add SDK files for Android and iOS device compatibility
+48019af | 2026-05-14 18:09 | Prevent unwanted bracelet vibrations during heart rate monitoring
+05df54d | 2026-05-14 17:59 | Fix bracelet vibrations and inaccurate heart rate readings
+691b239 | 2026-05-14 16:16 | Published your App
+103b1e6 | 2026-05-14 16:09 | fix(bracelet): send mandatory HOLD keep-alive every 18s for QC live HR
+f0aa129 | 2026-05-14 13:32 | Published your App
+f8a3777 | 2026-05-14 11:51 | Published your App
+d4f4952 | 2026-05-14 11:28 | fix(bracelet): wire 3 missing live-HR sources for H59 Pro flagship
+0d87691 | 2026-05-14 11:20 | Add SDK files for device communication and control
+e292d52 | 2026-05-14 11:14 | Add a diagnostic tool to see all device communication options
+bcc6f1e | 2026-05-14 11:09 | Add new images to the asset library
+aa265b5 | 2026-05-14 10:59 | Improve heart rate monitoring by automatically restarting readings when stuck
+b81cb49 | 2026-05-14 10:53 | Update display to show heart rate measurement intervals
+75a557a | 2026-05-14 10:48 | Update image asset for better display
+9be7c60 | 2026-05-14 10:44 | Make heart rate display consistent between header and FC tile
+2dae258 | 2026-05-14 10:41 | Align stale heart rate data with live stream
+2fd0d0d | 2026-05-14 10:39 | Force frequent heart rate sensor readings to prevent stale data
+03a99f5 | 2026-05-14 10:31 | Add a parallel heart rate tracking system as a backup
+2c8e177 | 2026-05-14 10:21 | Fixes bracelet step count to prevent silent overwrites and adds phone fallback
+c235d08 | 2026-05-14 10:05 | Improve real-time step and push tracking for all users
+46e892c | 2026-05-14 10:02 | Improve heart rate filtering to prevent false runaway readings
+3bb149d | 2026-05-14 01:17 | Make the Anëa coach dynamic with personalized messages and trends
+39b1319 | 2026-05-14 01:12 | Improve wheelchair sport card layout for better readability
+618ddfe | 2026-05-14 00:59 | Published your App
+7a2cd30 | 2026-05-14 00:53 | Improve heart rate reading accuracy and Bluetooth stability
+ca37767 | 2026-05-14 00:29 | Improve bracelet connection stability and reliability
+aea11df | 2026-05-14 00:25 | Update user profile details and fix display issues across the app
+ed826fc | 2026-05-14 00:12 | Published your App
+2b7a094 | 2026-05-14 00:08 | Improve real-time heart rate monitoring by reducing retry interval
+9888813 | 2026-05-14 00:07 | Improve heart rate readings and wear detection accuracy
+7f0638c | 2026-05-14 00:03 | Ensure continuous heart rate monitoring by adjusting sampling intervals and adding a watchdog mechanism
+23a756a | 2026-05-14 00:00 | Improve heart rate monitoring to prevent signal loss
+4f54822 | 2026-05-13 23:57 | Improve heart rate tracking accuracy and reliability
+26076ca | 2026-05-13 23:53 | Bracelet: 5 fixes pour fiabilité Apple-Watch-grade
+329a79f | 2026-05-13 23:47 | Smarter learning gate + stop false "NON PORTÉ" on athlete H59
+d62ba10 | 2026-05-13 23:39 | Real-time battery + smart on/off-wrist resume (shower-friendly)
+0c576ab | 2026-05-13 23:34 | Add charging-aware HR baseline + foreground reconnect watchdog
+e584b21 | 2026-05-13 23:26 | Add silent foreground watchdog to automatically reconnect bracelet
+3a12901 | 2026-05-13 23:23 | Published your App
+0b6e566 | 2026-05-13 23:20 | Published your App
+9100152 | 2026-05-13 23:19 | Fixes issues with heart rate signal detection and display
+93c680d | 2026-05-13 23:16 | Fix inaccurate heart rate readings for athletes by removing double filtering
+522f384 | 2026-05-13 23:12 | Make bracelet signal detection more reliable and accurate
+d8a2648 | 2026-05-13 23:10 | Fix bracelet wear detection and improve time display
+30840d0 | 2026-05-13 23:07 | Allow users to find bracelets after forgetting them
+69f03e8 | 2026-05-13 23:05 | Add automatic triggering of heart rate measurement on connection
+4e9a175 | 2026-05-13 23:02 | Improve heart rate display by automatically triggering measurement
+130b010 | 2026-05-13 22:44 | Published your App
+d1df0ee | 2026-05-13 22:40 | Fix issues with invisible training plan options and delayed heart rate display
+1f22106 | 2026-05-13 22:16 | Published your App
+3d6a960 | 2026-05-13 22:10 | Simplify fitness goals to focus on training style rather than outcomes
+b12b3f8 | 2026-05-13 22:08 | Refine the "Welcome to your space" section for a more elegant look
+76a4ad6 | 2026-05-13 22:06 | Add a way to navigate away from the blog page when opened directly
+0cc213d | 2026-05-13 22:04 | Add a back button to the blog screen for easier navigation
+69f21e7 | 2026-05-13 22:02 | Simplify the blog section to display an icon and summary instead of article previews
+ff8575d | 2026-05-13 21:59 | Improve the welcome message and details about the client space
+1b730eb | 2026-05-13 21:53 | Make the footer logo white to be visible on the dark background
+bf79c82 | 2026-05-13 21:52 | Improve layout and visual elements on "My Center" page
+2bb9b69 | 2026-05-13 21:48 | Improve exercise and animation matching with new equipment detection
+365fa2e | 2026-05-13 21:42 | Improve sport section design and functionality for better user experience
+f1a80a3 | 2026-05-13 21:32 | Add animated exercise GIFs and cache them locally on the backend
+cd2a301 | 2026-05-13 21:25 | Update the API key used for exercise data access
+16bf2de | 2026-05-13 21:22 | Add a screenshot of an API key issue
+7d7395c | 2026-05-13 21:20 | Add ability to fetch and display exercise animations from an external API
+1b945cc | 2026-05-13 21:12 | Improve exercise animation smoothness and visual appeal
+2bcd012 | 2026-05-13 21:02 | Replace video demos with animated exercise stickers
+9fe5632 | 2026-05-13 20:59 | Add French translations and improve navigation and keyboard handling
+9fe96d5 | 2026-05-13 20:48 | Remove stress monitor and recovery details from bracelet screen
+195aecc | 2026-05-13 20:42 | Organize the app by moving sections to the home screen and simplifying navigation
+025565f | 2026-05-13 20:35 | sport: ajout bibliothèque d'exercices avec animations intégrées (sans YouTube)
+77eef01 | 2026-05-13 20:20 | Bracelet: simplify UX by removing low-value sections
+af03d30 | 2026-05-13 20:14 | Update tab bar icon to improve visual appearance on mobile
+160c287 | 2026-05-13 20:09 | Add client number assignment and admin notification on user registration
+7b18508 | 2026-05-13 20:06 | Remove nutrition questions from user onboarding flow
+1fa6f90 | 2026-05-13 20:01 | Add choice to scan food or menu items using camera or library
+45c80b6 | 2026-05-13 19:42 | Published your App
+b7f17ac | 2026-05-13 17:04 | Published your App
+760268f | 2026-05-13 16:59 | feat(bracelet): add low-battery coaching alert
+94f89c3 | 2026-05-13 16:51 | Update the preview to show the live application interface
+f6049bf | 2026-05-13 16:40 | Published your App
+9596bfb | 2026-05-13 16:11 | Add asset files to the project repository
+1ebdf92 | 2026-05-13 15:32 | Add GitHub token and repository details to store project information
+754cf81 | 2026-05-13 15:23 | Add screenshot for capturing user authentication issue
+8a229bc | 2026-05-13 15:22 | Add a screenshot to help guide users with GitHub integration
+cdf8754 | 2026-05-13 15:20 | Update component registration for mockups
+3fdba2f | 2026-05-13 14:38 | Add animated illustrations for exercise and program generation
+a2348d1 | 2026-05-13 13:42 | Add animations and interactive elements to sport and exercise sections
+9ebd9be | 2026-05-13 13:12 | Add comprehensive activity journal to track all workouts by day
+151a70c | 2026-05-12 18:47 | Add a preview route to display the Expo web app in the canvas
+ade084f | 2026-05-12 18:36 | Add ability for users to register as clients from their profile
+efa2466 | 2026-05-12 18:24 | Update screenshots to reflect latest application changes
+5c2d937 | 2026-05-12 17:16 | Add automatic cloud synchronization for user data
+2ade349 | 2026-05-12 17:01 | Add a way to import client data from the admin interface to the mobile app
+0179609 | 2026-05-12 16:47 | Add API endpoints for exporting data from the application
+5fcf8b5 | 2026-05-12 16:34 | Add ability to synchronize blog articles, recipes, and clients from the admin site
+27d3b03 | 2026-05-12 16:25 | Add screenshot for admin project setup
+92eecfc | 2026-05-12 15:51 | Add screenshot of meal card with placeholder moon icon
+6b3c300 | 2026-05-12 15:44 | Fix meal image generation to display correctly on the screen
+ddbd5ca | 2026-05-12 15:01 | Improve background tracking and reconnection for wearable devices
+b5303fe | 2026-05-12 14:54 | Improve heart rate monitoring stability and responsiveness after connection
+0a622f9 | 2026-05-12 14:40 | Upload updated Android SDK files for device integration
+6d7d36c | 2026-05-12 14:39 | Add iOS SDK files for fitness band integration
+fff0c0c | 2026-05-12 14:38 | Add iOS SDK files for fitness band integration and update existing assets
+dee9b3e | 2026-05-11 18:48 | Update tab bar icons to use the Anëa logo silhouette
+6200967 | 2026-05-11 18:47 | Add Anëa Minceur logo to the center screen footer
+fedea50 | 2026-05-11 18:33 | Add Anëa Minceur logos to the user's personal center and treatment sections
+a3c9e06 | 2026-05-11 18:31 | Fix errors in cycle tracking and prevent malicious input
+1f141c1 | 2026-05-11 18:25 | Update the Anëa card on the homepage and remove appointment booking features
+2eca1e2 | 2026-05-11 18:21 | Add a dedicated section for Anëa clients to view their services and appointments
+b6c501b | 2026-05-11 18:13 | Integrate client appointments with external booking system
+acb038f | 2026-05-11 18:07 | Add a bearer token to secure external API calls
+7509d35 | 2026-05-11 18:06 | Add screenshot of appointment booking and cancellation flow
+73026ed | 2026-05-11 18:02 | Update component registry to include all relevant screens
+074ba60 | 2026-05-11 17:32 | Saved progress at the end of the loop
+64d07cd | 2026-05-11 17:12 | Add a dedicated section for users to view and manage their appointments
+a636121 | 2026-05-11 16:44 | Revert cycle section visibility to only show for women
+9620330 | 2026-05-11 16:44 | Make the cycle tracking section visible to all users
+8abf199 | 2026-05-11 16:38 | Add detailed menstrual cycle tracking to the home screen
+cb6237a | 2026-05-11 16:32 | Published your App
+e7b5e97 | 2026-05-11 16:28 | Add menstrual cycle tracking card to home page for female users
+d5c3fa5 | 2026-05-10 20:57 | Published your App
+b8cbbb8 | 2026-05-10 20:52 | Published your App
+9990cf7 | 2026-05-10 20:44 | Enhance workout plan with Apple-inspired design and animations
+60f375b | 2026-05-10 20:35 | Restore AI plan generation and update button labels
+e651abe | 2026-05-10 20:31 | Replace AI training plan generator with static programs and update sports screen
+32d1749 | 2026-05-10 20:19 | Published your App
+cfcd195 | 2026-05-10 19:18 | Enhance activity tracking with map integration and improved history
+446f312 | 2026-05-10 19:08 | Allow recipes to adapt to calorie goals without a meal plan
+f378b4f | 2026-05-10 16:35 | Add flyer for Anea inauguration with cryolipolysis machines
+b7cfb9a | 2026-05-09 21:09 | Add video demonstrations for each exercise
+20772bf | 2026-05-09 21:08 | Add a way to start and track live workout sessions
+4252f3a | 2026-05-09 20:57 | Improve menstrual cycle tracking and add AI-powered training plan generation
+fcdeb2f | 2026-05-09 13:29 | Fix regression in bracelet activity data tracking
+16a5de2 | 2026-05-09 09:09 | Add PDF output for Anëa Minceur valorization report
+fb3631d | 2026-05-09 08:57 | Add a market valuation report for the application and its admin ecosystem
+e3e0612 | 2026-05-08 23:52 | Update product names to reflect current brand branding
+c49d435 | 2026-05-08 23:37 | Sync bracelet steps and add wheelchair push detection
+d23d9a8 | 2026-05-08 23:11 | Improve sleep tracking and background data synchronization
+59478ae | 2026-05-08 22:48 | Enable continuous heart rate monitoring on the band
+a527126 | 2026-05-08 22:33 | Published your App
+e3acc74 | 2026-05-08 22:29 | Published your App
+7f3acad | 2026-05-08 22:24 | Improve bracelet connection stability when app is backgrounded
+ee5a1ed | 2026-05-08 22:17 | Fix translation errors and update language keys for better accuracy
+c5a4d17 | 2026-05-08 22:01 | Improve battery display and heart rate speed on device connection
+f154576 | 2026-05-08 21:58 | Restore reliable heart rate display by removing problematic updates
+c460004 | 2026-05-08 21:36 | Published your App
+a7ef8f7 | 2026-05-08 21:26 | Restore BPM display by reverting problematic protocol changes
+881ca6f | 2026-05-08 21:20 | Stop simulating heart rate when using actual device data
+1ae9f28 | 2026-05-08 21:18 | Improve bracelet notification and battery reporting accuracy
+e01b3bb | 2026-05-08 20:43 | Published your App
+3fc613d | 2026-05-08 20:34 | Improve bracelet heart rate tracking and add wear detection
+1e19521 | 2026-05-08 20:22 | Improve bracelet functionality and prevent crashes
+8b16a73 | 2026-05-08 16:12 | Update body measurements to use a female silhouette image
+9ed2c7b | 2026-05-08 16:09 | Update silhouette shape and marker positions for better anatomical accuracy
+c680311 | 2026-05-08 16:05 | Add body measurements tracking and admin interface
+ce895e6 | 2026-05-08 00:42 | Add a median filter to smooth out erratic heart rate readings
+71853ab | 2026-05-08 00:40 | Improve heart rate reliability with multiple retries and faster initial readings
+cf5326f | 2026-05-08 00:37 | Add fallback for heart rate data when primary connection fails
+c4e951a | 2026-05-07 23:49 | Add a way to forget and reconnect to bracelets
+ef0c07e | 2026-05-07 23:46 | Add a button to restart heart rate reading and adjust learning durations
+7c69f77 | 2026-05-07 23:43 | Improve heart rate monitoring accuracy and user experience
+64545b2 | 2026-05-07 22:43 | Published your App
+940c700 | 2026-05-07 22:38 | Make the Anëa logo much larger within the meal plan section
+3f01b1e | 2026-05-07 22:37 | Restore original nutrition icon on meal plan card
+30b707e | 2026-05-07 22:37 | Make the brand logo much more prominent in the nutrition plan header
+a5dfec8 | 2026-05-07 22:36 | Update meal plan card to display the correct brand logo
+bcf916c | 2026-05-07 22:34 | Improve navigation design and update brand logo in meal planner
+cc54b56 | 2026-05-07 22:31 | Improve image generation and simplify nutritional information display
+576719c | 2026-05-07 22:29 | Remove recipe preference banner and collapse daily tips into a menu
+deca122 | 2026-05-07 22:24 | Add ability to generate and save recipe images to the application
+8b91548 | 2026-05-07 21:58 | Improve recipe image display with better placeholders and error handling
+f8606cc | 2026-05-07 21:54 | Adjust recipes to match meal plan calorie and macro targets
+76f3bda | 2026-05-07 21:49 | Fix syntax error in nutrition screen meal display
+bbb8bc2 | 2026-05-07 21:48 | Enhance nutrition screen with improved meal and macro tracking visuals
+4cc62ef | 2026-05-07 21:42 | Add tappable information cards to bracelet and nutrition screens
+01ff068 | 2026-05-07 21:25 | Update bracelet and nutrition screens with new gradient hero cards
+a09ce96 | 2026-05-07 21:19 | Add new mockups for bracelet and nutrition pages with updated design
+ea8cd65 | 2026-05-07 18:15 | Update component imports to fix preview functionality
+0bf96fa | 2026-05-07 17:10 | Lot 11 Task #1 — TDEE disclaimer + nutrition equilibrium pedagogy (PNNS/OMS)
+7302408 | 2026-05-07 17:08 | Lot 11 Task #1 — TDEE disclaimer + nutrition equilibrium pedagogy (PNNS/OMS)
+f42e658 | 2026-05-07 17:07 | Lot 11 Task #1 — TDEE disclaimer + nutrition equilibrium pedagogy (PNNS/OMS)
+ed00c0e | 2026-05-07 17:03 | Lot 11 Task #1 — TDEE disclaimer + nutrition equilibrium pedagogy (PNNS/OMS)
+7df1c28 | 2026-05-07 17:00 | Lot 11 Task #1 — TDEE disclaimer + nutrition equilibrium pedagogy (PNNS/OMS)
+9fed450 | 2026-05-07 16:56 | Lot 11 Task #1 — TDEE disclaimer + nutrition equilibrium pedagogy (PNNS/OMS)
+c4efddf | 2026-05-07 16:49 | Lot 11 #1 — Nutrition équilibre + disclaimer TDEE
+4fa228a | 2026-05-07 16:39 | Transitioned from Plan to Build mode
+eae7fee | 2026-05-07 01:16 | Add legal and informational pages for the application
+f75ed0a | 2026-05-07 01:10 | Published your App
+7bbeedd | 2026-05-07 01:06 | Add calorie consumption label and enhance photo generation
+5345ad6 | 2026-05-07 01:03 | Remove macro nutrient details from the meal plan view
+c26bf87 | 2026-05-07 01:02 | Update daily energy expenditure calculation and remove water tracking
+9a04fc4 | 2026-05-07 00:52 | Update nutrition score to remove hydration and reweight components
+298207d | 2026-05-07 00:50 | Improve nutrition tracking with better calorie targets and snack logging
+82e18a8 | 2026-05-07 00:44 | Add ability to select language for meal plan analysis and recipe details
+bd2569c | 2026-05-07 00:40 | Improve camera access and logging of weigh-ins
+7c66b35 | 2026-05-07 00:33 | Improve back navigation reliability and cross-platform compatibility
+b1f7dd5 | 2026-05-07 00:30 | Personalize health metrics based on user profile data
+e471a4f | 2026-05-07 00:24 | Personalize bracelet activity metrics and improve multilingual support
+d2f0bfb | 2026-05-07 00:14 | Add personalized health advice and energy expenditure estimates
+b4afd09 | 2026-05-07 00:07 | Add detailed score breakdown page and auto-generate meal plan images
+2dee982 | 2026-05-07 00:03 | Enlarge app logo and improve user profile details
+3634b41 | 2026-05-06 23:58 | Update app visuals and navigation for a better user experience
+e42d787 | 2026-05-06 23:50 | Update app appearance and user information display
+c1bbfcb | 2026-05-05 21:43 | Published your App
+ac1c34c | 2026-05-05 17:31 | Improve app preview by showing the correct onboarding screen
+84415ef | 2026-05-05 15:13 | Add a GPS-enabled run tracker for tracking distance, pace, and calories
+bc1ab74 | 2026-05-05 14:12 | Add optional hydration tracking and user-configurable stats to the homepage
+bfae358 | 2026-05-05 13:20 | Update health indicators to show three key pillars
+09a56da | 2026-05-05 13:07 | Update the home screen with new design elements and improved functionality
+b798ef1 | 2026-05-05 12:55 | Improve health data integration and platform-specific messaging
+fa4b412 | 2026-05-05 08:22 | Enable new architecture for improved performance and stability
+7002228 | 2026-05-04 23:56 | Enable the new architecture for iOS builds
+b27260a | 2026-05-04 23:44 | Published your App
+04ace6d | 2026-05-04 23:40 | Update backend deployment configuration and fix build errors
+13fafd4 | 2026-05-04 23:21 | Improve blood oxygen monitoring and data display
+d2d8b12 | 2026-05-04 23:12 | Improve data accuracy and consistency for heart rate and sleep metrics
+d8825d5 | 2026-05-04 22:56 | Remove React compiler experiment from application configuration
+3c8b36f | 2026-05-04 22:51 | Disable new architecture to fix app crashes
+dffb9e5 | 2026-05-04 22:27 | Published your App
+cd40b3e | 2026-05-04 22:22 | Add production server details to app configuration
+ba994f6 | 2026-05-04 22:12 | Update app store build configuration for production
+22b9feb | 2026-05-04 21:58 | Published your App
+c64ed4d | 2026-05-04 21:53 | Fix app build errors by correcting push notification settings
+90f8d15 | 2026-05-04 21:48 | Remove widget functionality to allow app to build successfully
+203a4a9 | 2026-05-04 21:42 | Published your App
+c1e80cc | 2026-05-04 21:36 | Add widget support and necessary app group configurations to the application
+4650811 | 2026-05-04 21:28 | Update widget configuration with correct identifiers and signing
+b0fea39 | 2026-05-04 21:25 | Published your App
+cd2299a | 2026-05-04 21:19 | Update widget to use correct app identifiers and signing settings
+882ba6d | 2026-05-04 21:10 | Fix issues with app building and publishing processes
+b6f659a | 2026-05-04 21:07 | Published your App
+854ef9c | 2026-05-04 21:01 | Add TypeScript compatibility to brace expansion module
+e0a6770 | 2026-05-04 20:50 | Avoid fingerprinting calculation to resolve brace expansion errors
+0e34a64 | 2026-05-04 20:42 | Published your App
+6c8a613 | 2026-05-04 20:26 | Update XML parsing to handle specific library version changes
+1a1d29d | 2026-05-04 19:58 | Published your App
+91db8d2 | 2026-05-04 19:50 | Improve XML parsing by fixing error handling and whitespace issues
+c1d8041 | 2026-05-04 19:43 | Published your App
+e5a8d93 | 2026-05-04 19:37 | Fix error when parsing iOS property list files
+3db6c2c | 2026-05-04 19:26 | Published your App
+956c152 | 2026-05-04 18:53 | Add a screenshot to illustrate the app store publishing process
+765447e | 2026-05-04 18:52 | Add screenshot of error message during app publishing
+8da4ef8 | 2026-05-04 18:43 | Fix 10 dependency vulnerabilities across root project and mockup-sandbox artifact
+b6ca7a3 | 2026-05-04 18:34 | Fix 67 dependency vulnerabilities
+1087a80 | 2026-05-04 18:22 | Update app configuration to target the correct application listing
+dfd3045 | 2026-05-04 18:16 | Add a screenshot of the publishing tab
+48c8a80 | 2026-05-04 18:15 | Add screenshot for debugging Apple app linkage issues
+10a91a2 | 2026-05-04 18:10 | Update screenshots to reflect current application settings
+9058622 | 2026-05-04 18:09 | Update screenshots showing app store connection issues
+0f43564 | 2026-05-04 18:05 | Update screenshots to reflect correct app publishing
+c4c58f6 | 2026-05-04 17:00 | Add a screenshot for the app information section
+a544993 | 2026-05-04 16:59 | Add app store listing details and assets
+5aafa70 | 2026-05-04 16:53 | Add app metadata and screenshots for app store submission
+0bfc840 | 2026-05-04 16:51 | Add a new application to the app store
+6b67e71 | 2026-05-04 16:41 | Update screenshots for app registration and configuration steps
+9a26245 | 2026-05-04 16:38 | Add new app registration details for Apple App Store
+82cbaa2 | 2026-05-04 16:36 | Add screenshot of Apple Developer account settings
+ce1a7ab | 2026-05-04 16:34 | Add new image asset for app store setup guidance
+39b9bd9 | 2026-05-04 16:30 | Add new iOS app for Anëa Minceur
+8a52475 | 2026-05-04 16:26 | Update app store screenshots for the new application version
+945f09b | 2026-05-04 16:23 | Update submission profiles to ensure new app creation
+16102a0 | 2026-05-04 16:21 | Update production configuration to use new Anëa branding
+ac207b0 | 2026-05-04 16:15 | Update component import order for branding and scale designs
+ec8451f | 2026-05-02 12:39 | Update bracelet name display logic for accurate branding
+67faaff | 2026-05-02 12:36 | Enhance home page design for a more elegant and feminine user experience
+10681e2 | 2026-05-02 12:26 | Simplify the home screen and reduce stressful colors
+0659984 | 2026-04-27 20:17 | Improve readability of the Anëa score card display
+74028f8 | 2026-04-27 20:15 | Enhance the app's visual identity with distinctive brand elements
+678cb6a | 2026-04-27 20:11 | Enhance app design with a white logo and warm beige tones
+4338fea | 2026-04-27 19:48 | Add missing import for colors to fix runtime error
+761cc43 | 2026-04-27 19:47 | Update app to dark mode with white logos and larger branding
+bb6b857 | 2026-04-27 19:42 | Add logo to sport and nutrition tracking pages
+4260ba7 | 2026-04-27 19:40 | Update device branding to consistently display the current brand name
+9c44c95 | 2026-04-27 19:37 | Update all references from NutriBand Pro to Anëa Band
+fb7802d | 2026-04-27 19:33 | Update score title and labels to use Anëa instead of ATY
+d3681c3 | 2026-04-27 19:32 | Replace score title with logo to enhance branding
+169103d | 2026-04-27 19:28 | Display the main logo alongside the ATY score on the home screen
+2ca7f97 | 2026-04-27 19:26 | Display large company logo prominently on the home screen
+8e4e3c0 | 2026-04-27 19:22 | Add the company logo to various sections of the application and website
+96240cf | 2026-04-27 16:33 | Add multilingual blog and user activity tracking to the app
+34e80e9 | 2026-04-27 16:12 | Update app branding to use Anëa Minceur logo and features
+fe12563 | 2026-04-27 14:46 | Update app name to reflect current brand for landing page
+7e67231 | 2026-04-24 13:55 | Update product descriptions and safety guidelines to remove medical claims
+0847e0e | 2026-04-24 13:31 | Update safety modules and refine medical claims
+88444ce | 2026-04-23 22:24 | Update recipe image handling and ingredient description
+75ed500 | 2026-04-23 22:03 | Update nutrition screen to correctly scale recipes based on user meal plan
+a76d43d | 2026-04-23 21:58 | Align recipe calorie displays with the user's meal plan
+8823efc | 2026-04-23 21:55 | Integrate user's meal plan to guide recipe adaptation
+5723ce0 | 2026-04-23 21:54 | Add recipe photo and make it accessible through the server
+cd0c45f | 2026-04-23 21:45 | Introduce separate recipe catalog tab and feature flag
+2338d37 | 2026-04-23 21:41 | Reorganize nutrition screen tabs and improve navigation robustness
+7c0f520 | 2026-04-23 21:39 | Add administrative capabilities for managing recipes and enhance recipe scaling
+23b82cf | 2026-04-23 21:23 | Generalize body composition scanner and improve nutrition calculations
+0d10434 | 2026-04-23 21:15 | Add meal target calculation and recipe adaptation with AI
+b2827e3 | 2026-04-23 21:08 | Add a meal picker for recipe adaptation and enhance macro tracking
+9c1fc42 | 2026-04-19 22:05 | Published your App
+f04cd93 | 2026-04-19 21:29 | Published your App
+6d45aa1 | 2026-04-19 21:21 | Remove screen-specific features from device communication
+d5e4684 | 2026-04-19 21:19 | Add comprehensive support for bracelet functionality and event handling
+91fab97 | 2026-04-19 21:06 | Add wear detection to show when the heart rate bracelet is removed
+d820571 | 2026-04-19 19:27 | Remove simulated body alignment tracking feature
+b754588 | 2026-04-19 18:39 | Display body composition data directly on the tracking screen
+49430ff | 2026-04-19 18:38 | Add body composition tracking to user weight entries
+7b05e1b | 2026-04-19 18:35 | Add a prominent button to encourage daily weight logging
+3c04166 | 2026-04-19 18:34 | Improve analysis and alerts to reflect device learning and connection status
+8bd78d2 | 2026-04-19 18:31 | Add live data indicators and reset functionality for bracelet metrics
+17017b7 | 2026-04-19 18:28 | Add real-time heart rate status indicator for improved accuracy
+f6a73d2 | 2026-04-19 18:09 | Published your App
+9e62c4c | 2026-04-19 18:02 | Estimate missing macronutrients when adding meals to the journal
+933fef9 | 2026-04-19 17:57 | Enhance nutrition journal and weight tracking with date selection and visual cues
+5525e95 | 2026-04-19 17:48 | Prevent simulated data when using a physical bracelet
+a630329 | 2026-04-19 17:41 | Ensure all bracelet data shows zero when disconnected Prevent silent fallback to simulated data for all bracelet metrics by displaying zero or "--" when disconnected.
+f9593a7 | 2026-04-19 17:28 | Improve calorie tracking and clarify metabolic base information
+7e6922a | 2026-04-19 17:18 | Improve nutrition display and integrate health tracking features
+dd1a6cf | 2026-04-18 11:49 | Add hypertrophy mode to personalize AI-generated meal plans
+5fbd1fb | 2026-04-16 23:38 | Add evidence-based supplement recommendations and improve protein goals
+a70b8fa | 2026-04-16 23:29 | Add evidence citations to nutrition recommendations
+205fdef | 2026-04-16 23:25 | Add a centralized, evidence-based nutrition recommendation system
+9508a44 | 2026-04-16 23:02 | Add detailed specifications for a medical bracelet
+7be0aca | 2026-04-16 21:48 | Add component for displaying brand identity in mockups
+f028943 | 2026-04-16 19:46 | Create a PDF mockup of the ATY PRO telemonitoring platform
+c35d164 | 2026-04-16 02:11 | Create a global market study PDF for ATY products
+74e3b4e | 2026-04-16 02:03 | Add a summary document detailing potential revenue streams
+b30d611 | 2026-04-15 23:45 | Generate a comprehensive project PDF for Bpifrance application
+e590642 | 2026-04-15 23:38 | Add inspirational images to showcase user progress and potential
+b67eec4 | 2026-04-15 23:33 | Generate a feasibility study PDF for the smart anti-bedsore cushion
+bcd8989 | 2026-04-15 23:22 | Create a study on health insurance savings for spinal cord injury patients
+de53ace | 2026-04-15 13:25 | Generate a PDF budget document for French Tech grant applications
+01b2a9f | 2026-04-15 11:26 | Add a detailed market study PDF to the project assets
+a178d38 | 2026-04-14 21:37 | Add images for hand bike product concept and pricing
+9a6dfb0 | 2026-04-14 14:42 | Add iOS widgets to display health data and ATY score
+229ea19 | 2026-04-14 00:59 | Add home exercise programs and handcycle attachment to investor deck
+17b7c4a | 2026-04-13 23:56 | Update investor presentation with corrected pricing and financial projections
+77d4f52 | 2026-04-13 23:53 | Update attached image files for visual asset improvements
+42b00d6 | 2026-04-13 23:51 | Add investor deck document with realistic financial projections
+e7c4ffa | 2026-04-13 23:46 | Update document with revised financial projections and realistic targets
+7a4c29d | 2026-04-13 23:40 | Add comprehensive marketing strategy document for ATY
+6e7c4c4 | 2026-04-13 23:26 | Add complete financial valuation PDF and update metadata
+8e7fc98 | 2026-04-13 23:15 | Create PDF document with market analysis and financial projections
+bfbd261 | 2026-04-13 22:53 | Add product images for a smart wheelchair scale
+dfc1de7 | 2026-04-13 22:48 | Add learning mode display to activity and sleep scores
+63a715e | 2026-04-13 18:24 | Display learning mode status instead of activity and sleep scores
+037b3b3 | 2026-04-13 18:22 | Add calculation for missing macronutrients when adding meals
+d7bb754 | 2026-04-13 18:04 | Improve heart rate accuracy and reset functionality for connected bracelets
+cbd0b57 | 2026-04-13 18:00 | Add brand identity component to mockup sandbox
+9c89046 | 2026-04-13 17:38 | Published your App
+371aa98 | 2026-04-13 17:30 | Add hand cycling as a sport activity for all users
+598c00d | 2026-04-13 17:29 | Update hydration tracking to use liters instead of glasses
+ab64d09 | 2026-04-13 17:10 | Fix issues with deleting journal entries and improve bracelet notification settings
+0e855ec | 2026-04-13 17:00 | Add a visible delete button for journal entries and display macros
+8ae5eda | 2026-04-13 16:56 | Improve how journal entries are calculated and simplify the home screen
+9838de9 | 2026-04-13 16:52 | Add button to change food items for proteins and starches
+0bf7379 | 2026-04-13 16:49 | Ensure food categories only display matching items in the nutrition tab
+8a4ac0b | 2026-04-13 16:47 | Reorganize home screen and improve food selection
+433987a | 2026-04-13 16:27 | Improve ingredient selection by restoring original choices and fixing display
+713b9ad | 2026-04-13 16:21 | Organize ingredients with headers and improve meal logging accuracy
+c0dc001 | 2026-04-13 16:15 | Improve meal plan functionality with ingredient swapping and step adaptation
+69042ec | 2026-04-13 15:59 | Add a new dropdown menu for meal filtering and improve recipe step adaptability
+35f9e14 | 2026-04-13 15:48 | Display ingredient weight and portion warnings for better meal planning
+1b3f78c | 2026-04-13 15:41 | Add energy expenditure tracking and sleep toggle for improved health monitoring
+6990ae7 | 2026-04-13 14:36 | Add sleep tracking and data source settings to the home screen
+f8fccde | 2026-04-13 13:58 | Update recipe steps to show different instructions based on vegetable choice
+6400b8a | 2026-04-13 13:53 | Improve parsing of food items and their alternatives from PDF documents
+e8ad872 | 2026-04-13 13:36 | Allow users to choose sleep tracking and phone step counting
+7f5d610 | 2026-04-13 13:10 | Published your App
+461a3d7 | 2026-04-13 12:25 | Improve accuracy of food calorie calculations in equivalences
+957f153 | 2026-04-13 12:14 | Fix invisible buttons and apply sharp-edge design to modal elements
+a5fa47b | 2026-04-13 12:07 | Add options to control sleep tracking and data source
+a62faba | 2026-04-13 11:43 | Fix visibility issues on the sport tab by adjusting button colors
+184d4b5 | 2026-04-13 11:39 | Refine sport and tracking screens with a cleaner, more compact interface
+453931e | 2026-04-13 11:20 | Simplify the nutrition screen by making calorie information persistently visible
+616011b | 2026-04-13 11:14 | Simplify home screen by removing unused components and styles
+0c22292 | 2026-04-13 11:07 | Add energy expenditure tracking and wheelchair push counting
+75ff099 | 2026-04-13 10:44 | Add a learning mode to the bracelet that collects data for 48 hours
+a879e8a | 2026-04-13 10:37 | Read heart rate directly from the bracelet in real-time
+1f1b905 | 2026-04-13 10:35 | Improve heart rate simulation for more realistic daily and workout patterns
+9871dd8 | 2026-04-13 10:33 | Improve heart rate simulation during workouts and sleep
+ce05ada | 2026-04-13 09:22 | Add mechanical design for wheelchair accessible scale
+274d9c9 | 2026-04-12 22:49 | Published your App
+e50c12f | 2026-04-12 21:14 | Add silent mode and data reset functionality to the bracelet tab
+9aef5b0 | 2026-04-12 21:08 | Add sleep mode tracking and a reset option for first-time users
+13881bd | 2026-04-12 20:43 | Published your App
+74e0ff6 | 2026-04-12 19:50 | Enhance food journal to include PDF recipes, snack equivalences, and optimized photo generation
+b3d27af | 2026-04-12 19:32 | Improve Bluetooth connection handling and add auto-reconnect
+f4ad1cf | 2026-04-12 19:20 | Fix invisible active filter tabs by adjusting text and badge colors
+92f8f2e | 2026-04-12 19:17 | Classify fruits in snack options by referencing equivalence data
+365e0f3 | 2026-04-12 19:12 | Organize fruits by class in nutritional information options
+798b8fe | 2026-04-12 19:05 | Update snack parser to support multiple PDF formats and improve results assembly
+dec9095 | 2026-04-12 18:57 | Saved progress at the end of the loop
+9a1d134 | 2026-04-12 18:29 | Add ability to parse equivalence tables directly from PDF text
+a1a4b15 | 2026-04-12 18:24 | Saved progress at the end of the loop
+37a3a2d | 2026-04-12 18:19 | Published your App
+7ce97a2 | 2026-04-12 18:08 | Add detailed cooking instructions for recipes
+bf20116 | 2026-04-12 18:07 | Saved progress at the end of the loop
+b738293 | 2026-04-12 18:00 | Refactor meal plan analysis and improve error handling
+2152a4c | 2026-04-12 17:56 | Improve PDF processing by making section splitting more robust
+a4e98a2 | 2026-04-12 17:48 | Make recipe cooking steps more concise and improve PDF data handling
+5f937cf | 2026-04-12 17:41 | Improve meal plan analysis by splitting data into multiple API calls
+a0824a5 | 2026-04-12 17:35 | Saved progress at the end of the loop
+dc5f5c4 | 2026-04-12 17:24 | Improve meal plan analysis by splitting into two passes
+a0a7c2a | 2026-04-12 17:19 | Add client name display to meal plan header
+85eccaf | 2026-04-12 17:18 | Improve recipe extraction to include all meals from documents
+59bc60c | 2026-04-12 17:14 | Update PDF analysis to use GPT-4o model and improve logging
+723a8ee | 2026-04-12 17:11 | Replace PDF analysis with GPT and add audio integration tools
+73e76e9 | 2026-04-12 16:59 | Improve PDF text extraction reliability using a new library
+4526009 | 2026-04-12 16:57 | Extract text from PDFs locally before sending to AI for analysis
+f4a25de | 2026-04-12 16:48 | Improve meal plan generation speed and reliability
+52101ad | 2026-04-12 16:42 | Enable streaming for large PDF analysis with Claude API
+c342b6c | 2026-04-12 16:39 | Integrate Claude for enhanced PDF meal plan analysis and documentation
+b375985 | 2026-04-12 16:32 | Update model to one that is supported by the platform
+40fcd21 | 2026-04-12 16:31 | Improve AI analysis speed and timeout duration for document processing
+b45519f | 2026-04-12 16:23 | Configure API requests to be proxied to the backend server
+0d80a48 | 2026-04-12 16:17 | Improve the display of the empty meal plan card
+2f9f3f2 | 2026-04-12 16:15 | Improve PDF upload process by sending files in smaller chunks
+632d914 | 2026-04-12 16:00 | Add ability to upload large PDF files in chunks for analysis
+45896a0 | 2026-04-12 15:58 | Published your App
+d493e19 | 2026-04-12 15:52 | Show all Bluetooth devices with visible names instead of filtering
+1982a72 | 2026-04-12 15:51 | Update file upload system to handle larger documents efficiently
+c5ae458 | 2026-04-12 14:38 | Improve PDF meal plan analysis with enhanced timeouts and error handling
+92bb600 | 2026-04-12 14:06 | Improve PDF upload and file reading robustness for meal plan analysis
+b96b9d0 | 2026-04-12 13:48 | Update button styles and fix translation errors across the application
+0b6c068 | 2026-04-12 13:20 | Improve app appearance by fixing accents and updating colors
+f771066 | 2026-04-12 13:08 | Saved progress at the end of the loop
+c8e272b | 2026-04-12 13:02 | Fix issue with deleting meal plans on web and improve PDF analysis speed
+30bc605 | 2026-04-12 12:48 | Add image to attached assets
+e687f76 | 2026-04-12 12:39 | Improve PDF upload functionality by adding a fallback encoding Fix error that prevented PDF uploads by providing a fallback encoding type when the default is not available.
+9211ee3 | 2026-04-12 12:22 | Published your App
+be3f592 | 2026-04-12 12:17 | Add comprehensive App Store listing and metadata for the application
+4bf50ad | 2026-04-12 12:15 | Update app configuration to include necessary privacy descriptions for Apple submission
+310f266 | 2026-04-12 12:13 | Add an image to the project assets
+9d3b229 | 2026-04-12 12:12 | Add an image asset to the project
+1598c27 | 2026-04-12 12:01 | Published your App
+a888795 | 2026-04-12 11:54 | Add stub modules to allow optional native health features
+7e40a9b | 2026-04-12 11:38 | Update Expo and related packages to compatible versions
+f7c8806 | 2026-04-12 11:27 | Add a unique identifier to device names for better identification
+247926b | 2026-04-12 11:25 | Update device names to be more user-friendly for various models
+c305c23 | 2026-04-12 11:24 | Improve Bluetooth error messages and device compatibility for bracelet pairing
+82d41ab | 2026-04-12 11:20 | Improve accuracy of heart rate data collection and reporting
+0a31ce7 | 2026-04-12 11:16 | Improve recipe explanations and image realism
+752919c | 2026-04-12 11:12 | Improve how the app connects to the server for better reliability
+ba668a7 | 2026-04-12 11:08 | Improve document upload analysis with better error handling and timeouts
+de48d78 | 2026-04-12 00:43 | Add HealthKit and Health Connect integration for reading health data
+cfe85ad | 2026-04-12 00:28 | Add charging indicator and freeze device data when bracelet is charging
+3098048 | 2026-04-11 20:37 | Update component import order for mockups
+8d0f91c | 2026-04-11 12:25 | Add a vertical pole with a handlebar for body composition analysis
+a4da971 | 2026-04-11 12:24 | Add a flat bar for improved impedance measurement practicality
+3c83f87 | 2026-04-11 12:21 | Add a realistic cable connecting the scale to the impedance measurement handles
+73f4278 | 2026-04-11 12:14 | Update the 3D scale model to fold into four panels
+ff46350 | 2026-04-11 11:56 | Add interactive 3D sketch of the ATY Scale to the mockup sandbox
+6dfdd98 | 2026-04-11 11:33 | Add interactive 3D model of the ATY Scale wheelchair platform
+ce6ae54 | 2026-04-11 10:46 | Add image detailing concept for wheelchair scale
+aa1bfb9 | 2026-04-11 10:44 | Add concept image for wheelchair scale mat and handle bar
+59a729e | 2026-04-11 10:42 | Add a flat mat for wheelchair users to weigh themselves
+eb337ae | 2026-04-10 21:12 | Saved progress at the end of the loop
+81d6eb0 | 2026-04-08 13:05 | Add images and presentation file for a new smart scale product
+c83956a | 2026-04-05 17:19 | Published your App
+03a6b6c | 2026-04-05 16:42 | Improve meal plan analysis with automatic retries and better error handling
+45c17b5 | 2026-04-03 22:05 | Published your App
+85e611c | 2026-04-03 21:55 | Published your App
+5c69b7b | 2026-04-03 21:47 | Add vibration and notification controls for the bracelet
+9c8271d | 2026-04-03 21:27 | Update visual elements on the bracelet screen to use the correct brand accent color
+70b830d | 2026-04-03 21:08 | Add comprehensive metric detail pages and calibration functionality
+f54e0f0 | 2026-04-03 20:42 | Add a first-time connection onboarding experience for the bracelet
+2566cc9 | 2026-04-03 20:23 | Add ability for admins to upload meal plans for clients
+bc3c299 | 2026-04-02 18:30 | Update logo to high definition with improved silhouette
+11105be | 2026-04-02 17:53 | Update product branding and default settings to NutriPlanPro
+696fdf1 | 2026-04-02 17:48 | Update app identifiers to match existing App Store entry
+de9e8ea | 2026-04-02 17:14 | Published your App
+67f117e | 2026-04-02 16:59 | Remove dynamic configuration file to simplify app branding
+c16ddc7 | 2026-04-02 15:45 | Update the application icon displayed in the browser tab
+db7dbed | 2026-04-02 15:40 | Saved progress at the end of the loop
+a3fec87 | 2026-04-02 15:18 | Published your App
+53b0e44 | 2026-04-02 15:13 | Update app configuration to use the new branding
+796e3cd | 2026-04-02 15:10 | Update application branding to reflect the NutriPlanPro identity
+9a93bd8 | 2026-04-02 14:50 | Update application to reflect NutriPlanPro branding and configuration
+d51c582 | 2026-04-02 14:49 | Update onboarding screen to show correct brand icon and adjust translations
+18ee088 | 2026-04-02 14:46 | Update domain and email for NutriPlanPro brand configuration
+cba6bd6 | 2026-04-02 14:40 | Separate app configurations for distinct branding and functionality
+b837e34 | 2026-04-02 14:39 | Published your App
+18a1b68 | 2026-04-02 14:38 | Update app to be named and identified as NutriPlanPro
+df9a173 | 2026-04-02 14:27 | Published your App
+0fef5f9 | 2026-04-02 14:21 | Add new screenshots for app store listing and web version
+a90e62f | 2026-04-02 14:19 | Saved progress at the end of the loop
+fad307c | 2026-04-02 14:18 | Saved progress at the end of the loop
+906efc0 | 2026-04-02 14:16 | Add a screenshot for application development context
+ddd671b | 2026-04-02 14:10 | Published your App
+665ee4a | 2026-04-02 14:08 | Update application assets for new features
+5389abf | 2026-03-24 18:07 | Add global feature toggles to control application content and appearance
+0422dc9 | 2026-03-24 17:49 | Published your App
+c62ffb9 | 2026-03-24 17:49 | Update plan view to include new tab options and translations
+0bec036 | 2026-03-24 17:41 | Update meal plan display and calorie tracking on home screen
+758421d | 2026-03-24 17:33 | Improve app features and internationalization for better user experience
+fbd2698 | 2026-03-24 17:18 | Integrate PDF introduction content and adjust meal structure
+e89f37f | 2026-03-24 17:10 | Add ability for users to upload and manage their meal plans
+a8b850d | 2026-03-24 17:01 | Published your App
+8920912 | 2026-03-24 16:53 | Fix error when viewing nutrition screen and update translation keys
+9363985 | 2026-03-24 15:19 | Add multi-language support and new meal plan tab
+95d25ea | 2026-03-24 14:56 | Set the default language to French for new users
+a4e8083 | 2026-03-24 14:55 | Update branding to reflect NutriPlanPro identity correctly
+a74706e | 2026-03-24 14:55 | Update the bracelet name to reflect the correct branding
+5252d17 | 2026-03-24 14:53 | Filter nutrition tabs and disable recipe generation for specific brands
+32cb478 | 2026-03-24 14:50 | Update application branding to NutriPlanPro across all components
+94b0bb6 | 2026-03-24 14:38 | Update app to become NutriPlanPro with all features enabled
+b8f5ab6 | 2026-03-23 15:21 | Add image for wheelchair scale project documentation
+d89fbae | 2026-03-23 13:47 | Add image of a smart weighing mat prototype
+554b44e | 2026-03-23 13:43 | Add image of medical wheelchair scale prototype
+d37a1aa | 2026-03-21 15:43 | Add new logo variations inspired by sacred and christic themes
+b5048f5 | 2026-03-21 15:37 | Add minimalist christic logo variations
+298f7b8 | 2026-03-21 15:35 | Add several logo designs with a christ-like theme
+576d3ed | 2026-03-21 15:34 | Add new logo designs featuring intertwined 'YY' characters
+8b1768b | 2026-03-21 15:31 | Add merged logo concepts for user review
+8d8fc5e | 2026-03-21 15:29 | Add logo concepts for the YY brand
+7bff10f | 2026-03-21 13:57 | Add logo concepts for the YY brand
+f23feb9 | 2026-03-21 13:43 | Add several logo design concepts for the YY brand
+729532f | 2026-03-21 13:10 | Update product pricing and documentation for ATY ecosystem
+7fe7c54 | 2026-03-21 13:05 | Add comprehensive PDF explaining the entire wheelchair ecosystem
+a169053 | 2026-03-21 10:04 | Update pricing for wheelchair system accessories and documentation
+ed4784b | 2026-03-21 09:52 | Update documentation title for wheelchair system and scale integration
+9b19edd | 2026-03-21 09:45 | Add detailed documentation for the wheelchair fitness system
+403060b | 2026-03-21 09:39 | Add detailed documentation explaining the wheelchair system
+b830a85 | 2026-03-21 00:46 | Improve calorie calculations and add exact vertebral level selection
+c7c6326 | 2026-03-21 00:33 | Add fiber tracking and personalized recommendations for improved intestinal health
+f57b4bd | 2026-03-21 00:19 | Enhance the app to support users with spinal cord injuries
+39e7667 | 2026-03-21 00:02 | Add image of athlete in wheelchair to showcase product
+dc753e4 | 2026-03-20 12:37 | Improve recipe generation by fixing JSON parsing issues
+841cbdb | 2026-03-19 23:03 | Update food logging and recipe generation capabilities
+764dfa0 | 2026-03-19 22:43 | Introduce a comprehensive ATY Score system to the home screen
+bdc5fc5 | 2026-03-19 22:32 | Add banners to the nutrition tab to personalize recipes
+73bdb11 | 2026-03-19 22:20 | Add translation support to the tracking screen component
+cadc27a | 2026-03-19 22:16 | Published your App
+e8fe9f9 | 2026-03-19 21:47 | Add a discipline score system to encourage consistent meal logging
+f45a7f0 | 2026-03-19 21:27 | Add personalized recipe generation and automatic calorie adjustments
+7ecb707 | 2026-03-19 21:06 | Apply dark mode theme across the entire application
+b9ace3a | 2026-03-19 20:17 | Enhance wheelchair accessibility and refine user profile typography
+9ced70c | 2026-03-19 18:38 | Add a smart caloric deficit calculator to the nutrition tab
+1ff1e13 | 2026-03-19 18:22 | Consolidate food preferences into the nutrition tab
+c92fce0 | 2026-03-19 18:07 | Add a screen to configure user food preferences
+8be1264 | 2026-03-19 17:53 | Add new nutritional setup flow for user onboarding
+19f8c0f | 2026-03-19 17:45 | Add a prompt for generating personalized meal plans
+c61f091 | 2026-03-19 17:40 | Add functionality for users to reset their passwords
+0812ce7 | 2026-03-19 17:34 | Make registration errors visible directly within the form
+388cefa | 2026-03-19 17:27 | Improve home screen appearance and clarify brand identity
+3275b40 | 2026-03-19 17:25 | Add "Advance Technology Yourself" to the welcome screen
+ff1cbae | 2026-03-19 17:13 | Update application to align with brand identity and enhance user experience
+b3c8a61 | 2026-03-19 16:57 | Add brand book PDF and update HTML to correctly display logos
+239e1f0 | 2026-03-19 16:35 | Add a downloadable HTML version of the brand book
+5f55502 | 2026-03-19 16:29 | Update brand identity to reflect discipline architect philosophy
+09e3fa0 | 2026-03-19 16:26 | Update branding with new logo and adjust display styles
+bf66c85 | 2026-03-19 16:20 | Update brand identity guidelines with a deeper narrative
+302690e | 2026-03-19 16:18 | Update branding to display ATY instead of ATY.APP
+12f6ffa | 2026-03-19 16:16 | Add branding visuals and components for ATY product ecosystem
+ce9f348 | 2026-03-19 13:52 | Update product specifications for lightweight, foldable wheelchair scale
+01a176a | 2026-03-19 13:47 | Add a PDF product specification document for a wheelchair accessible scale
+ade731e | 2026-03-19 13:44 | Add detailed specifications for a wheelchair-accessible smart scale
+c190817 | 2026-03-18 17:53 | Add brand-specific icons and App Store guide
+71e8754 | 2026-03-18 17:50 | Update app branding and configuration for multiple product lines
+8e85e81 | 2026-03-18 17:44 | Add a white label system to customize the application for different brands
+2526bca | 2026-03-18 16:48 | Saved progress at the end of the loop
+50cbb43 | 2026-03-18 16:46 | Add a product catalog for a smart scale manufacturer
+9a2cd91 | 2026-03-17 22:53 | Fix registration button to correctly send information to the backend server
+d3878fb | 2026-03-17 22:46 | Add ability to send verification emails to users upon registration and code resend
+4cdb5e3 | 2026-03-17 22:41 | Add screenshot for email configuration
+3f7d00e | 2026-03-17 22:39 | Add support for Spanish and Italian languages and improve country code selection
+09d9be3 | 2026-03-17 22:20 | Prevent Bluetooth module errors on web platforms
+9e9b25a | 2026-03-17 22:14 | Update project configuration for app store submission
+c0fb4ca | 2026-03-17 22:10 | Add native Bluetooth support for iOS and Android devices
+0cbec19 | 2026-03-17 21:48 | Add image for development build troubleshooting
+8829bac | 2026-03-17 17:38 | Add a meal photo diary feature for users to track their meals
+27ace97 | 2026-03-17 17:29 | Update application with new logo and remove frequency features
+05b350c | 2026-03-17 17:14 | Add user registration, login, and onboarding flow
+3114a91 | 2026-03-17 16:42 | Add ability to automatically capture app screenshots for documentation
+cb2dcec | 2026-03-17 16:24 | Add essential app configuration and metadata for store submission
+f4bb325 | 2026-03-17 16:10 | Add required build numbers for app store submissions
+1171508 | 2026-03-15 22:42 | Published your App
+4d18da3 | 2026-03-11 12:45 | Published your App
+2c592db | 2026-03-11 12:13 | Published your App
+7622a07 | 2026-03-11 12:06 | Improve development server proxying for Expo Go applications
+fb24838 | 2026-03-11 12:02 | Published your App
+4a61233 | 2026-03-11 12:00 | Add development proxy to forward Expo Go requests to Metro
+c2ca83a | 2026-03-11 11:55 | Saved progress at the end of the loop
+0cecd51 | 2026-03-11 11:54 | Improve application stability by fixing a file watching error
+f4a67db | 2026-03-09 17:41 | Enhance meal plan display with detailed nutritional information and points
+657cc77 | 2026-03-09 17:36 | Published your App
+7b941ea | 2026-03-09 17:28 | Published your App
+f7ddaec | 2026-03-09 17:26 | Add ability to view detailed meal plans with generated images
+d2f9c8b | 2026-03-09 17:18 | Published your App
+02cc549 | 2026-03-09 17:14 | Add detailed meal plan generation and display for users
+0611e98 | 2026-03-09 17:05 | Published your App
+1db8622 | 2026-03-09 17:00 | Integrate QCBand protocol for enhanced Bluetooth device communication
+13813f2 | 2026-03-09 16:43 | Published your App
+f3d9148 | 2026-03-09 16:39 | Improve web app functionality by simulating bracelet data
+af4affe | 2026-03-09 16:13 | Update branding to ATY BAND PRO across the application
+38076ae | 2026-03-09 16:12 | Add UI elements for meal plan analysis and API key management
+e97169b | 2026-03-09 16:10 | Published your App
+c82e892 | 2026-03-09 16:03 | Update app to recognize the ATY BAND PRO bracelet
+e36c92b | 2026-03-09 15:54 | Published your App
+0a4b1be | 2026-03-09 15:49 | Update Bluetooth service UUIDs to their full format
+0819295 | 2026-03-09 15:47 | Published your App
+4a8ca4a | 2026-03-09 15:43 | Improve Bluetooth device scanning by displaying specific errors
+75ea033 | 2026-03-09 15:41 | Add screenshot documenting Bluetooth connection troubleshooting steps
+dd8726e | 2026-03-09 15:40 | Update screenshot for user interface guidance
+17802f9 | 2026-03-09 15:35 | Update asset for capturing user interface interactions
+87006e1 | 2026-03-09 15:34 | Published your App
+d8e46a3 | 2026-03-09 15:29 | Published your App
+1a81351 | 2026-03-09 15:24 | Update Express route to correctly handle web application requests
+f5c66bc | 2026-03-09 15:16 | Add server build process to deployment script
+f8046e0 | 2026-03-09 15:13 | Update application to include web export and server adjustments
+e7a9a14 | 2026-03-09 15:11 | Add web version of the application and update deployment
+a0f4ec1 | 2026-03-09 15:10 | Update attached screenshots to reflect current application state
+1b47116 | 2026-03-09 14:59 | Update application name to ATY.APP and rename related branding
+78a3a5d | 2026-03-09 14:54 | Published your App
+0066e17 | 2026-03-09 14:43 | Update asset with new screenshot
+52b895c | 2026-03-09 14:30 | Improve Bluetooth scanning error logging and enable it on production
+e4036e4 | 2026-03-09 14:26 | Improve Bluetooth scanning error messages and handling
+f06080a | 2026-03-09 14:22 | Add user-facing PDF upload for meal plan analysis
+6b678e3 | 2026-03-09 14:15 | Improve Bluetooth device scanning and user feedback
+9d40f65 | 2026-03-09 13:24 | Enable real Bluetooth device connection and display discovered services
+ce3ff64 | 2026-03-05 11:34 | Add PEMF frequency control section to bracelet screen
+d0986a0 | 2026-03-04 17:15 | Add device images for product comparison and information
+51a23df | 2026-03-04 17:01 | Add detailed comparison of smart watch models for project
+dc77e30 | 2026-03-04 15:49 | Saved progress at the end of the loop
+ebbc182 | 2026-03-04 15:48 | Hide the admin access button and implement a secret gesture
+61bb264 | 2026-03-04 15:31 | Add a button to download the hardware specification document directly
+ef72d47 | 2026-03-04 15:29 | Manually draw PDF tables to fix download issues
+bad6f4c | 2026-03-04 14:57 | Add a system for downloading hardware specification documents as PDFs
+2f1b059 | 2026-03-01 18:29 | Update app permissions and privacy policy for user data protection
+2b73fd3 | 2026-02-28 23:35 | Add meal plan analysis and API key management features
+6270a93 | 2026-02-28 21:44 | Add Caribbean cuisine and personalize meal plans for users
+9f5aaa1 | 2026-02-28 21:32 | Saved progress at the end of the loop
+4026be6 | 2026-02-28 21:25 | Start a live sport session with real-time tracking and controls
+a6731f6 | 2026-02-28 21:12 | Saved progress at the end of the loop
+05409ef | 2026-02-28 20:28 | Add wheelchair mode and over 70 sports disciplines to the application
+3ca9315 | 2026-02-28 16:41 | Add translations for bracelet features and improve UI text
+8b25a85 | 2026-02-28 16:18 | Update healthspan estimation and add new body composition data
+61005e3 | 2026-02-28 16:16 | Add precise explanations for health and stress estimations
+93c4d05 | 2026-02-28 16:13 | Improve healthspan and aging pace explanations for users
+00bc9e7 | 2026-02-28 16:12 | Improve accuracy of vital signs and stress monitoring estimations
+f50df63 | 2026-02-28 16:10 | Update vital signs display to estimate blood pressure from sleep data
+9b12ccd | 2026-02-28 15:55 | Remove unsupported health monitoring features from the app
+eb76379 | 2026-02-28 15:47 | Remove unsupported health monitoring features from the device display
+beeedab | 2026-02-28 15:41 | Update effort score display to use clearer terminology
+34fccaa | 2026-02-28 15:40 | Rename "STRAIN" metric to "EFFORT" for clarity
+9d9954d | 2026-02-28 15:39 | Remove frequency emission features from the bracelet tab
+d32847f | 2026-02-28 15:31 | Fix crash by simplifying visual effect on bracelet screen
+20af45e | 2026-02-28 15:28 | Update the bracelet screen to a dark, premium design inspired by Whoop
+da98075 | 2026-02-28 15:14 | Add dual-mode bracelet support with native integration and pairing screen
+88b33df | 2026-02-28 14:57 | Add SDKs and utility for device data integration
+22bb955 | 2026-02-28 14:37 | Add new hardware specification details for advanced bracelet models
+573f6aa | 2026-02-28 14:34 | Update application to display all text in English
+bb4dfff | 2026-02-27 19:16 | Add a system for managing application features and their visibility
+0b16305 | 2026-02-27 16:47 | Update app to use English language for all user-facing text
+5e0e436 | 2026-02-27 16:32 | Add downloadable specification documents for NutriBand products
+445cfb3 | 2026-02-27 16:24 | Add hardware specification document for wheelchair accessible body composition system
+9485586 | 2026-02-27 16:11 | Add detailed specifications for an intelligent body composition scale
+250af3b | 2026-02-27 16:03 | Add comprehensive hardware specification document for the wearable bracelet
+721b72b | 2026-02-27 15:49 | Update app to support multiple languages and improve user experience
+c26ea40 | 2026-02-27 14:24 | Add personalized health insights and frequency programs to bracelet
+b372cc3 | 2026-02-27 14:09 | Add vibrant colors to the band's display for a more engaging user experience
+63e4595 | 2026-02-27 11:54 | Published your App
+917f970 | 2026-02-27 02:10 | Update the bracelet screen to use vibrant colors for all parameters on a white background
+33124d1 | 2026-02-27 01:55 | Update the bracelet screen with a new visual design and color scheme
+97f1990 | 2026-02-27 01:46 | Redesign bracelet tab with a dark, Whoop-inspired theme
+8eccafa | 2026-02-27 01:34 | Published your App
+0eae80b | 2026-02-27 01:25 | Integrate bracelet health data and add new app features
+bb2ff16 | 2026-02-27 01:02 | Improve quote typography to match premium design standards
+47ace7b | 2026-02-25 13:19 | Published your App
+74708c0 | 2026-02-25 13:18 | Improve daily quote typography to a premium Apple-inspired design
+c37542f | 2026-02-24 11:33 | Published your App
+082ab28 | 2026-02-23 19:17 | Published your App
+1d6462a | 2026-02-23 19:13 | Optimize recipe images and improve API consistency for faster loading
+c7c22f8 | 2026-02-22 12:34 | Improve file upload reliability with connectivity checks
+d209eb9 | 2026-02-22 11:19 | Improve image upload reliability and server connectivity checks
+c75b91a | 2026-02-22 11:08 | Improve Tanita scanner image upload reliability and error reporting
+d0ac43b | 2026-02-22 11:02 | Saved progress at the end of the loop
+a4b76d6 | 2026-02-22 10:59 | Add ability for admins to view client body composition scans
+a18a3d5 | 2026-02-22 10:58 | Add Tanita body composition scanning functionality to the tracking tab
+f271c21 | 2026-02-22 10:56 | Add ability to scan body composition tickets using AI
+cd48387 | 2026-02-22 10:55 | Add a system to scan and analyze body composition data
+53a5fa2 | 2026-02-22 10:52 | Add daily motivational quotes and sport features to the home screen
+a441049 | 2026-02-22 10:49 | Add daily motivational quotes and notifications to the app
+ca6b39d | 2026-02-22 10:46 | Add daily motivational quotes to the application
+8243101 | 2026-02-22 10:45 | Add visual elements to the application's home screen
+6363e96 | 2026-02-22 01:57 | Add documentation for integrating with the meal plan generator
+d3090e5 | 2026-02-22 01:49 | Saved progress at the end of the loop
+704063c | 2026-02-22 01:41 | Add client account creation and login flows
+a5f59aa | 2026-02-22 01:37 | Add a client account creation and login system using access codes
+cf6e9da | 2026-02-22 01:37 | Add client account creation and login functionality
+cef9162 | 2026-02-22 01:33 | Saved progress at the end of the loop
+175ba93 | 2026-02-22 01:29 | Add a comprehensive integration guide for inter-application communication
+f5f688b | 2026-02-22 01:27 | Add PDF upload and inter-app communication features
+fd453db | 2026-02-22 01:22 | Add unique client numbers for inter-application communication
+bf967e6 | 2026-02-22 01:09 | Saved progress at the end of the loop
+e6d4624 | 2026-02-22 01:09 | Update food preference icons for better visual representation
+5fd6cd1 | 2026-02-22 01:05 | Add client login and meal plan features
+aa2b52c | 2026-02-22 01:01 | Add administrative features for managing clients and their preferences
+99018c1 | 2026-02-22 00:55 | Add new admin routes for managing meal plans and clients
+fafe874 | 2026-02-22 00:52 | Add core database schema for client management and meal planning
+d4606fa | 2026-02-22 00:48 | Saved progress at the end of the loop
+9eb16b5 | 2026-02-22 00:48 | Published your App
+ae94158 | 2026-02-22 00:48 | Add automatic generation of realistic recipe images for new users
+cc75f84 | 2026-02-22 00:47 | Add automatic generation of hyperrealistic recipe images
+cf2efd7 | 2026-02-22 00:46 | Saved progress at the end of the loop
+6c9b37a | 2026-02-22 00:43 | Generate realistic food images for recipe suggestions
+5eee4fa | 2026-02-22 00:43 | Generate realistic recipe images using AI
+6157fb6 | 2026-02-22 00:42 | Add hyperrealistic images for all recipe cards
+11efb2d | 2026-02-22 00:42 | Enhance recipe images with hyperrealistic visuals
+a25f0fd | 2026-02-22 00:41 | Saved progress at the end of the loop
+1fa9143 | 2026-02-22 00:38 | Update home screen to use custom meal icons instead of emojis
+d1ec097 | 2026-02-22 00:37 | Enhance meal logging and recipe discovery for users
+32cbab3 | 2026-02-22 00:31 | Add sample weight entries to display progress graph
+5000f85 | 2026-02-22 00:29 | Update home screen to show calorie goals and hydration tips
+c47372f | 2026-02-22 00:26 | Saved progress at the end of the loop
+68b33c0 | 2026-02-22 00:26 | Published your App
+e45f940 | 2026-02-22 00:23 | Add step counting feature to the home screen and reorganize user stats
+3b9bda8 | 2026-02-22 00:20 | Add step counter and reorganize home screen layout
+651ddef | 2026-02-22 00:17 | Published your App
+2ce6866 | 2026-02-22 00:12 | Published your App
+61f0ead | 2026-02-22 00:08 | Enhance nutrition and sport sections with new features and content
+74d05d3 | 2026-02-22 00:07 | Add comprehensive nutrition and fitness tracking app overview
+fe479f5 | 2026-02-22 00:03 | Restructure nutrition and sport sections to enhance user experience
+b348c07 | 2026-02-21 23:58 | Add diverse recipes with consistent calorie counts and AI-generated images
+4936909 | 2026-02-21 23:55 | Add nutrition and sports features with AI integration
+85bc1c1 | 2026-02-21 23:52 | Published your App
+0caf4fd | 2026-02-21 23:37 | Extracted stack files
+76b2b7a | 2026-02-21 23:37 | Initial commit
